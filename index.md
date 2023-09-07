@@ -273,7 +273,7 @@ Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% ce
 
 * I'll be available via Zoom during class time and by appointment throughout the day to provide individualized feedback on your work. Attendance is optional.
 
-# Week 12 (Nov. 20 and 23): Media and Identity
+## Week 12 (Nov. 20 and 23): Media and Identity
 
 *Monday, November 20th*
 
