@@ -5,7 +5,7 @@ Taught by [Jentery Sayers](https://jntry.work/) (he / him)
 
 # Glossary of Media Studies Terms
 
-This glossary is intended as a reference for students in Media Studies 200. Let me know if you'd like me to clarify or correct any of these definitions, especially if you encounter a mistake or typo. Please also inform me if a key term from a given week isn't in the glossary. 
+This glossary is intended as a reference for students in Media Studies 200. Let me know if you'd like me to clarify or correct any of these definitions, especially if you encounter a mistake or typo. Please also inform me if a key term from a given week isn't in the glossary.
 
 ## Week 1 (Sept. 7): Media Are Material Agents
 
@@ -15,6 +15,7 @@ This glossary is intended as a reference for students in Media Studies 200. Let 
 * *digital preservation*: "combines policies, strategies and actions to ensure access to reformatted and born digital content regardless of the challenges of media failure and technological change. The goal of digital preservation is the accurate rendering of authenticated content over time." (see the [Association for Library Collections and Technical Services](https://www.ala.org/alcts/resources/preserv/defdigpres0408#:~:text=Digital%20preservation%20combines%20policies%2C%20strategies%20and%20actions%20to%20ensure%20access,of%20authenticated%20content%20over%20time.))
 * *electrical*: a means of reproduction involving electricity, transforming the energy of electrical current into another form of energy, such as light or heat; manual or "hand-cranked" turntables don't require electricity, for example; neither do pinhole cameras or  all-mechanical cameras
 * *elemental media*: material agents, such as earth, water, air, and fire, for transforming "this" into "that" 
+* *format*: a way in which media are arranged or designed, usually for circulation via the means of communication (like broadcasting, publishing, and the internet)
 * *image*: a material agent for transforming light or graphics into pictures or files by mechanical, electrical, digital, and/or analog means; such pictures include paintings, drawings, photographs, cartoons, and graphs; such files include PNGs, JPGs, TIFFs, and PDFs; they are reproduced through technologies such as cameras, projectors, computers (including laptops and smart phones), software (like Photoshop, Canva, GIMP, and PowerPoint), televisions, and computer monitors. 
 * *mechanical*: a means of reproduction involving moving gears, motors, and other moving physical parts to transform mechanical energy into another form; early phonography mechanically reproduced sound, for instance, by converting mechanical energy into acoustical energy 
 * *media*: material agents for transforming "this" into "that" by mechanical, electrical, digital, and/or analog means.  
