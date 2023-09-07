@@ -68,3 +68,18 @@ This week, media are not only material agents; they either consist of *signs* or
 
 *Approaches addressed this week*: semiotics (icon, symbol, and index as well as types of codes); discourse; social order 
 
+## Week 9 (Oct. 30 and Nov. 2): Media and Narrative
+
+This week, media are not only material agents but also *patterns* in how stories and experiences are transformed by narratives. Media play significant roles in the construction of heroes and villains, arcs and perspectives, plots and subplots, quests and conflicts. Today, a common question is whether a narrative is interactive, nonlinear, or branching. Can you choose your own adventure? How many endings are there? The popular perception that digital media are inherently interactive helps to explain these questions, yet so, too, do people's desires for participation in storytelling and even genre. This week, we'll review some narratives and genres we've encountered this term and then shift our attention to how narratives emerge, or are crafted, from everyday activities, particularly the activity of play. 
+
+*Questions for this week*: How do genres shape your expectations of media or your media habits? What's your preferred format for narrative content? When and why do media brush against the desire or impulse for narrative? What's a narrative that surprised you in some way? 
+
+*Primary source for the week*: Niantic's [*Pokémon GO*](https://pokemongolive.com/) (2016), which "uses mobile devices with GPS to locate, capture, train, and battle virtual creatures, called Pokémon, [who] appear as if they are in the player's real-world location." Content warning: bug-, snake- and spider-like Pokémon.
+
+*Format for the week*: mobile game (augmented reality)
+
+*Technique for the week*: storyboarding. Use text and images to transform the experience of playing *Pokémon GO* into a narrative of your choice. The narrative should consist of at least three scenes. 
+
+*Approaches addressed this week*: environmental storytelling (especially emergent storytelling); narratology (especially narrative transformation); genre studies (especially genre as a social activity); ludology (especially ludonarrative dissonance)
+
+
