@@ -203,10 +203,10 @@ Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% ce
 
 *Monday, October 16th*
 
-* Please read ["You Don’t Like Violence But Want to Watch *Squid Game"](https://www.washingtonpost.com/lifestyle/2021/10/14/tv-violence-squid-game-watch/) before we meet today. 
+* Please read ["You Don’t Like Violence But Want to Watch *Squid Game*"](https://www.washingtonpost.com/lifestyle/2021/10/14/tv-violence-squid-game-watch/) before we meet today. 
 * I recommend completing a draft of Worksheet 2 by today if you can. Your response is due by noon this Friday.
 * Today, I'll lecture on approaches to affect and media. 
-* I will also circulate and review [Worksheet 3](https://jentery.github.io/mdia200/worksheet3.html)) today. It covers material from Weeks 7, 8, and 9 and is due by Friday, November 10th at noon. 
+* I will also circulate and review [Worksheet 3](https://jentery.github.io/mdia200/worksheet3.html) today. It covers material from Weeks 7, 8, and 9 and is due by Friday, November 10th at noon. 
 
 *Thursday, October 19th*
 
@@ -215,7 +215,20 @@ Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% ce
 
 *Friday, October 20th by 12pm* (no class; just a due date)
 
-* Please use Brightspace to submit Worksheet 2 (20% of your final mark) in DOCX, RTF, or PDF by noon today.  
+* Please use Brightspace to submit Worksheet 2 (20% of your final mark) in DOCX, RTF, or PDF by noon today.
+
+## Week 8 (Oct. 23 and 26): Media and Meaning
+
+*Monday, October 23rd*
+
+* Take a break. You don't need to do anything for today's meeting. 
+* Today, I'll lecture on approaches to media and meaning and introduce Hopkinson's "Message in a Bottle" before you read it. 
+
+*Thursday, October 26th* 
+
+* Please read "Message in a Bottle" (PDF) before today's meeting. 
+* Please review our [glossary](https://jentery.github.io/mdia200/glossary.html) for Weeks 7 and 8 and let me know if you'd like me to clarify or elaborate anywhere. 
+* Today, we'll discuss "Message in a Bottle" and conduct a theatre of the imagination exercise. I'll also introduce some terms for engaging short fiction and text in media studies.
 
 # Policies 
 
