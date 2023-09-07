@@ -285,7 +285,7 @@ Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% ce
 * Please review our [glossary](https://jentery.github.io/mdia200/glossary.html) for Weeks 10 and 12 and let me know if you'd like me to clarify or elaborate anywhere. 
 * Today, we'll discuss Twitch and conduct a wireframing exercise. I'll also introduce some terms for engaging livestreams in media studies.
 
-# Week 13 (Nov. 27 and 30): Media and Memory
+## Week 13 (Nov. 27 and 30): Media and Memory
 
 *Monday, November 27th* 
 
