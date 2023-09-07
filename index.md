@@ -149,6 +149,36 @@ I do not want and will not expect you to adopt every angle on media studies that
 * Today, we'll introduce ourselves, review the course outline, talk about our expectations, and then watch [*THE M00D 0F THE M0MENT*](https://www.yhchang.com/THE_MOOD_OF_THE_MOMENT_V.html) in class. 
 * I encourage you to review this course outline after class and email me your questions and concerns, including any concerns about the accessibility of this course and its material. Odds are good I made a mistake, missed something, or skimmed over important information. Don't hesitate to call me on it.
 
+## Week 2 (Sept. 11 and 14): Media and Interpersonal Communication
+
+This week, media are not only material agents but also the *middle* of your communication with someone else. Interpersonal communication usually refers to forms of one-to-one, two-way communication, including spoken language, sign language, and body language&#8212;instances when you may very well be the *messenger*. As the name suggests, interpersonal communication stresses in-person or "face-to-face"  communication yet may also involve everyday communications from a distance, like texting and phone calls. We'll talk about the rhetorical situations of interpersonal communication and how they shape the ways we relate to other people. We'll also consider those moments when media enhance interpersonal communication and when we feel like we're shouting into the abyss.  
+
+Critical approaches to media, including interpersonal approaches, are most compelling when they account for *intersectionality* (see, for instance, bell hooks, Brittney Cooper, and Kimberlé Crenshaw, who coined ["intersectionality" in 1989](https://philpapers.org/archive/CREDTI.pdf)). Intersectionality "is the study of overlapping or intersecting social identities and related systems of oppression, domination, or discrimination. The theory suggests that—and seeks to examine how—various biological, social and cultural categories such as gender, race, class, ability, sexual orientation, religion, caste, age, nationality and other sectarian axes of identity interact on multiple and often simultaneous levels" ([Syracuse University Libraries 2023](https://researchguides.library.syr.edu/fys101)). Dr. Crenshaw further explains intersectionality in this [2018 video](https://www.youtube.com/watch?v=ViDtnfQ9FHc).
+
+*Questions for this week*: What to you is an immediate experience? How do media bring personal differences into relation? When do you use media to connect with someone else, and when have media alienated you or made you feel vulnerable? 
+
+*Primary source for the week*: Marina Kittaka's [*Secrets Agent*](https://even-kei.itch.io/secrets-agent) (2014), a vignette game with a voice-over track "made pretty loosely and improvisationally" about "this guy [who] stole our gemstone." Content warning: allusions to voice dysphoria and anxiety. 
+
+*Format for the week*: video game (made for browsers using Construct 2)
+
+*Technique for the week*: design document. Draft a simple design document to describe *Secrets Agent* and then use it to explain Kittaka's approach to interpersonal communication in the game. 
+
+*Approaches addressed this week*: intersectionality, rhetoric, affordance theory, symbolic interactionism, looking-glass self, impressions management, future self, dramaturgy, parallel play
+
+***
+
+*Monday, September 11th*
+
+* Please play [*Secrets Agent*](https://even-kei.itch.io/secrets-agent) before we meet today.  
+* You're welcome to watch [*THE M00D 0F THE M0MENT*](https://www.yhchang.com/THE_MOOD_OF_THE_MOMENT_V.html) again if you wish. I may refer to it during today's meeting.  
+* Today, I'll lecture on approaches to interpersonal communication and the role media play in them. 
+* I will also circulate and review [Worksheet 1](https://jentery.github.io/mdia200/worksheet1.html). It covers material from Weeks 2 and 3 and is due by Friday, September 29th at noon. 
+
+*Thursday, September 14th*
+
+* Please review our [glossary](https://jentery.github.io/mdia200/glossary.html) for Weeks 1 and 2 and let me know if you'd like me to clarify or elaborate anywhere. 
+* Today, we'll discuss *Secrets Agent* and conduct a design document workshop in class. I'll also introduce some terms for engaging video games in media studies. 
+
 # Policies 
 
 Here are the policies for this course. If anything is unclear, ignorant, or mistaken, then please let me know. I'll correct it. 
