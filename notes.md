@@ -49,13 +49,13 @@ Multimodality, transduction, digital preservation
 
 ## Week 2 (Sept. 11 and 14): Media and Interpersonal Communication
 
-This week, media are not only material agents but also the *middle* of your communication with someone else. Interpersonal communication usually refers to forms of one-to-one, two-way communication, including spoken language, sign language, and body language&#8212;instances when you may very well be the *messenger*. As the name suggests, interpersonal communication stresses in-person or "face-to-face"  communication yet may also involve everyday communications from a distance, like texting and phone calls. We'll talk about the rhetorical situations of interpersonal communication and how they shape the ways we relate to other people. We'll also consider those moments when media enhance interpersonal communication and when we feel like we're shouting into the abyss.  
+This week, media are not only material agents but also in the *middle* of your communication with someone else. Interpersonal communication usually refers to forms of one-to-one, two-way communication, including spoken language, sign language, and body language&#8212;instances when you may very well be the *messenger*. As the name suggests, interpersonal communication stresses in-person or "face-to-face"  communication yet may also involve everyday communications from a distance, like texting and phone calls. We'll talk about the rhetorical situations of interpersonal communication and how they shape the ways we relate to other people. We'll also consider those moments when media enhance interpersonal communication and when we feel like we're shouting into the abyss.  
 
 Critical approaches to media, including interpersonal approaches, are most compelling when they account for *intersectionality* (see, for instance, bell hooks, Brittney Cooper, and Kimberlé Crenshaw, who coined ["intersectionality" in 1989](https://philpapers.org/archive/CREDTI.pdf)). Intersectionality "is the study of overlapping or intersecting social identities and related systems of oppression, domination, or discrimination. The theory suggests that—and seeks to examine how—various biological, social and cultural categories such as gender, race, class, ability, sexual orientation, religion, caste, age, nationality and other sectarian axes of identity interact on multiple and often simultaneous levels" ([Syracuse University Libraries 2023](https://researchguides.library.syr.edu/fys101)). Dr. Crenshaw further explains intersectionality in this [2018 video](https://www.youtube.com/watch?v=ViDtnfQ9FHc).
 
 **Questions for Week 2** 
 
-What to you is an immediate experience? How do media bring personal differences into relation? When do you use media to connect with someone else, and when have media alienated you or made you feel vulnerable? 
+What to you is an immediate experience? How do media bring personal differences into relation? When do you use media to connect with someone else, and when have media alienated you or rendered you vulnerable? 
 
 **Primary source for Week 2**
 
@@ -72,3 +72,7 @@ Design document: draft a simple design document to describe *Secrets Agent* and 
 **Approaches addressed in Week 2** 
 
 Intersectionality, rhetoric, affordance theory, symbolic interactionism, looking-glass self, impressions management, future self, dramaturgy, parallel play
+
+## Week 3 (Sept. 18 and 21): Media and Mass Communication
+
+Coming next! 
