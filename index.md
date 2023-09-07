@@ -61,7 +61,7 @@ During the course, we'll study the following (in this order):
 
 * The Flash animation, [*THE M00D 0F THE M0MENT*](https://www.yhchang.com/THE_MOOD_OF_THE_MOMENT_V.html) (2007), by Young-Hae Chang Heavy Industries
 * The browser game, [*Secrets Agent*](https://even-kei.itch.io/secrets-agent) (2014), by Marina Kittaka 
-* The dramatic podcast, [*Within the Wires*](http://www.nightvalepresents.com/withinthewires) (2016), by Jeffrey Cranor, Janina Matthewson, and Mary Epworth
+* The dramatic podcast, [*Within the Wires*](http://www.nightvalepresents.com/withinthewires) (2016), by  Janina Matthewson, Jeffrey Cranor, Mary Epworth, and Nightvale
 * The browser game, [*Hair Nah*](https://www.momopixel.com/hair-nah) (2017), by Momo Pixel
 * The comic, ["Translated, From the Japanese"](https://drawnandquarterly.com/books/killing-and-dying/) (2015), by Adrian Tomine  
 * The stop-motion animation, [*Biidaaban (The Dawn Comes)*](https://www.spottedfawnproductions.com/biidaaban/) (2018), by Amanda Strong, Leanne Betasamosake Simpson, and Bracken Hanuse Corlett 
@@ -70,13 +70,11 @@ During the course, we'll study the following (in this order):
 * The video game, [*Umurangi Generation*](https://www.umurangigeneration.com/) (2020), by Origame Digital and Naphtali Faulkner
 * A [Twitch](https://www.twitch.tv/) livestream of your choice (from a list of channels I'll provide)
 * The browser game, [*Under a Star Called Sun*](https://haraiva.itch.io/under-a-star-called-sun) (2020), by Cecile Richard
-* The video essay, "Completionism, 'Good' Endings, and the Detective Genre in *NORCO* *](https://www.youtube.com/watch?v=jwJ4LWDf4pk&t=2s)(2023), by Asia Tyson 
+* The video essay, ["Completionism, 'Good' Endings, and the Detective Genre in *NORCO*"](https://www.youtube.com/watch?v=jwJ4LWDf4pk&t=2s)(2023), by Asia Tyson 
 
 We will also talk about Hwang Dong-hyuk's *Squid Game* (2021), but I am not assigning it for you to watch. We'll discuss Angela Haupt's ["You Don’t Like Violence But Want to Watch *Squid Game.* These Tips Can Help"](https://www.washingtonpost.com/lifestyle/2021/10/14/tv-violence-squid-game-watch/) (2021) instead. 
 
-I am also providing you with a [glossary](https://jentery.github.io/mdia200/glossary.html) of terms mentioned during lectures and discussions. I will update this glossary for every lecture and encourage you to consult it weekly.  
-
-If this ends up being too much for the term, then we'll cut material or some of it will become optional.
+I am providing you with a [glossary](https://jentery.github.io/mdia200/glossary.html) of terms mentioned during lectures and discussions. I will update this glossary for every lecture and encourage you to consult it weekly.  
 
 I'll use the course Brightspace to: 
 
@@ -87,17 +85,19 @@ I'll use the course Brightspace to:
 * Comment on those assignments, and  
 * Mark those assignments according to rubrics I'll provide.    
 
+If this ends up being too much for the term, then we'll cut material or some of it will become optional.
+
 # Assignments
 
-I am asking you to complete five assignments this term (note that there are no exams, quizzes, tests, or presentations in this course): 
+I am asking you to complete five assignments this term (note that there are no exams, quizzes, presentations, or participation marks in this course): 
 
 1. **[Worksheet 1](https://jentery.github.io/mdia200/worksheet1.html)**: 20% of your final grade; covers material from Weeks 2 and 3 (due by Friday, September 29th at noon)
-2. **[Worksheet 2](https://jentery.github.io/mdia200/worksheet2.html)**: 20% of your final grade; covers material from Weeks 4, 5, and 6 (due by Friday, October 20th at noon
-3. **[Worksheet 3](https://jentery.github.io/mdia200/worksheet3.html)**: 20% of your final grade; covers material from Weeks 7, 8, and 9 (due by Friday, November 10th at noon
+2. **[Worksheet 2](https://jentery.github.io/mdia200/worksheet2.html)**: 20% of your final grade; covers material from Weeks 4, 5, and 6 (due by Friday, October 20th at noon)
+3. **[Worksheet 3](https://jentery.github.io/mdia200/worksheet3.html)**: 20% of your final grade; covers material from Weeks 7, 8, and 9 (due by Friday, November 10th at noon)
 4. **[Worksheet 4](https://jentery.github.io/mdia200/worksheet4.html)**: 15% of your final grade; covers material from Weeks 10 and 12 (due by Friday, December 1st at noon)
 5. **[Final Project](https://jentery.github.io/mdia200/final.html)**: 25% of your final grade (due Friday, December 15th at noon) 
 
-*Worksheets*: Each worksheet will ask you to define key terms in media studies, briefly analyze some primary sources (from class activities and lectures), share your responses to weekly exercises, and apply your learning. I will distribute each worksheet about three or four weeks before it's due. A worksheet will never contain more than ten prompts / questions, and I encourage you to use class time to draft your responses to those prompts. 
+*Worksheets*: Each worksheet will ask you to define key terms in media studies, briefly analyze some primary sources (from class activities and lectures), share your responses to weekly exercises, and apply your learning. I will distribute each worksheet about three or four weeks before it's due. A worksheet will never contain more than ten prompts / questions, and I will encourage you to use class time to draft your responses to those prompts / questions. 
 
 *Final Project*: You'll conclude the course by producing your own compelling content. You'll apply one approach you learned this term to your own media work or interests, be they academic, occupational, or personal. You'll have the opportunity to compose audio, images, text, and/or video for this assignment, and I'll give you options for responding. I will distribute the prompt for the Final Project on Monday, October 30th. 
 
@@ -109,6 +109,8 @@ I am asking you to complete five assignments this term (note that there are no e
 
 The most important thing to know about this course is that *I'll opt for care in every instance.* If the workload becomes too much, or we're juggling more than we should, then we'll cut material. I've planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine.
 
-I suggest dedicating 3 to 5 hours of study and practice to MDIA 200 each week, plus 3 hours for weekly meetings (MTh). Of course, 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work and materials involved.
+I suggest dedicating *3 to 5 hours of study and practice* to MDIA 200 each week, plus 3 hours for weekly meetings (MTh). Of course, 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work and materials involved.
+
+I will give you time during class to draft some responses to prompts / questions in your worksheets; however, you will need more time (between classes) to develop and refine your work, hence the recommended 3 to 5 hours per week.  
 
 I will give you time during class to draft some responses to prompts in your worksheets; however, you will need more time (between classes) to develop and refine your work, hence the recommended 3 to 5 hours per week.  
