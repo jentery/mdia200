@@ -115,6 +115,4 @@ I will give you time during class to draft some responses to prompts / questions
 
 # Schedule
 
-Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% certain there will be changes. 
-
-I will use a Brightspace announcement to notify you at least two weeks in advance of those changes, and I will never use schedule changes to increase your workload (e.g., add an assignment or reading). 
+Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% certain there will be changes. I will use a Brightspace announcement to notify you at least two weeks in advance of those changes, and I will never use schedule changes to increase your workload (e.g., add an assignment or reading). 
