@@ -39,3 +39,17 @@ This week, media are not only material agents but also *environments* for inters
 *Approaches addressed during these two weeks*: medium specificity, media art, intermedia, transmedia, experimental media, realism, auteur theory, artists direct
 
 *Approaches addressed this week*: media effects (direct, minimal, and third-person); uses and gratification model; social cognitive theory (especially representational modelling); cultivation effects (especially enculturation and mainstreaming); agenda setting; the ritual view of communication; representation (especially absence and stereotypes); institutions and hegemony (including dominant, negotiated, and oppositional readings); the gaze; framing; critical race theory; critical disability theory; queer theory; de-, post-, and anti-colonial theory; intersectional feminism; textual analysis
+
+## Week 7 (Oct. 16 and 19): Media and Affect
+
+This week, media are not only material agents but also *vibes* felt, perhaps unconsciously, during the experience of watching, playing, reading, or the like. Such feelings are deeply corporeal and deeply social, like the shared pulse of horror in the cinema or the collective intensity of a co-op survival game. Media act upon you in these moments, and your body becomes an interface of sorts. We'll try to apply scholarship on affect by, somewhat ironically, talking about and around this week's primary source without watching it (partly because I was unsure whether to assign you the experience). Reaction vids are therefore optional.
+
+*Questions for this week*: How are the corporeal experiences of media entwined with liveness? With nostalgia? With trends and hype cycles? How is affect contagious? How would you describe the relation between affect and your personal sense of agency? 
+
+*Primary source for the week*: Hwang Dong-hyuk's *Squid Game* (2021). But don't watch it (unless you have already). Please read this secondary source instead: Angela Haupt's ["You Don’t Like Violence But Want to Watch *Squid Game.* These Tips Can Help"](https://www.washingtonpost.com/lifestyle/2021/10/14/tv-violence-squid-game-watch/) (2021). 
+
+*Format for the week*: television (serialized into nine episodes; streaming on Netflix)
+
+*Technique for the week*: social tie. Describe an example of when your sensory or visceral experience of a particular work facilitated a bond (be it local or distant) with other people. Please mention the format of the work (game, comic, livestream, animation, short fiction, etc.) whether you ultimately liked or disliked it. Since we're talking about affect, you're welcome to note when or why the experience is difficult to put into words. 
+
+*Approaches addressed this week*: the spectacle (commodity fetishism), remediation, premediation, bandwagon effect, addictive design, flow theory (including immersion), audience studies, political phenomenology (including affect aliens), mimetic communication 
