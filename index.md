@@ -74,6 +74,8 @@ During the course, we'll study the following (in this order):
 
 We will also talk about Hwang Dong-hyuk's *Squid Game* (2021), but I am not assigning it for you to watch. We'll discuss Angela Haupt's ["You Don’t Like Violence But Want to Watch *Squid Game.* These Tips Can Help"](https://www.washingtonpost.com/lifestyle/2021/10/14/tv-violence-squid-game-watch/) (2021) instead. 
 
+I am also providing you with a [glossary](https://jentery.github.io/mdia200/glossary.html) of terms mentioned during lectures and discussions. I will update this glossary for every lecture and encourage you to consult it weekly.  
+
 If this ends up being too much for the term, then we'll cut material or some of it will become optional.
 
 I'll use the course Brightspace to: 
@@ -83,4 +85,30 @@ I'll use the course Brightspace to:
 * Point you to other assigned materials available online, 
 * Accept all your assignments, including your four worksheets and your final project (please don't submit anything to me by email),  
 * Comment on those assignments, and  
-* Mark those assignments according to rubrics I'll provide.   
+* Mark those assignments according to rubrics I'll provide.    
+
+# Assignments
+
+I am asking you to complete five assignments this term (note that there are no exams, quizzes, tests, or presentations in this course): 
+
+1. **[Worksheet 1](https://jentery.github.io/mdia200/worksheet1.html)**: 20% of your final grade; covers material from Weeks 2 and 3 (due by Friday, September 29th at noon)
+2. **[Worksheet 2](https://jentery.github.io/mdia200/worksheet2.html)**: 20% of your final grade; covers material from Weeks 4, 5, and 6 (due by Friday, October 20th at noon
+3. **[Worksheet 3](https://jentery.github.io/mdia200/worksheet3.html)**: 20% of your final grade; covers material from Weeks 7, 8, and 9 (due by Friday, November 10th at noon
+4. **[Worksheet 4](https://jentery.github.io/mdia200/worksheet4.html)**: 15% of your final grade; covers material from Weeks 10 and 12 (due by Friday, December 1st at noon)
+5. **[Final Project](https://jentery.github.io/mdia200/final.html)**: 25% of your final grade (due Friday, December 15th at noon) 
+
+*Worksheets*: Each worksheet will ask you to define key terms in media studies, briefly analyze some primary sources (from class activities and lectures), share your responses to weekly exercises, and apply your learning. I will distribute each worksheet about three or four weeks before it's due. A worksheet will never contain more than ten prompts / questions, and I encourage you to use class time to draft your responses to those prompts. 
+
+*Final Project*: You'll conclude the course by producing your own compelling content. You'll apply one approach you learned this term to your own media work or interests, be they academic, occupational, or personal. You'll have the opportunity to compose audio, images, text, and/or video for this assignment, and I'll give you options for responding. I will distribute the prompt for the Final Project on Monday, October 30th. 
+
+*Brightspace*: Please use Brightspace (rather than email) to submit all your work. You do not need to purchase any software to use Brightspace; however, you'll need your UVic NetLink ID, access to the internet, and a computer.  
+
+*Feedback*: I will provide brief and focused feedback on each assignment according to its rubric. Please email me or schedule an appointment (F2F or Zoom) to discuss any feedback I provide. Please also note that I'm teaching two courses this term (my other class has 23 students in it) while parenting, conducting research, and directing UVic's Media Studies program. I respond to emails Monday through Friday, 9am - 5pm, excluding holidays. Thanks in advance for your patience. 
+
+# Workload
+
+The most important thing to know about this course is that *I'll opt for care in every instance.* If the workload becomes too much, or we're juggling more than we should, then we'll cut material. I've planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine.
+
+I suggest dedicating 3 to 5 hours of study and practice to MDIA 200 each week, plus 3 hours for weekly meetings (MTh). Of course, 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work and materials involved.
+
+I will give you time during class to draft some responses to prompts in your worksheets; however, you will need more time (between classes) to develop and refine your work, hence the recommended 3 to 5 hours per week.  
