@@ -199,6 +199,24 @@ Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% ce
 
 *Please note that Tuesday, October 10th is the last day for 50% reduction of tuition fees for standard courses.*
 
+## Week 7 (Oct. 16 and 19): Media and Affect
+
+*Monday, October 16th*
+
+* Please read ["You Don’t Like Violence But Want to Watch *Squid Game"](https://www.washingtonpost.com/lifestyle/2021/10/14/tv-violence-squid-game-watch/) before we meet today. 
+* I recommend completing a draft of Worksheet 2 by today if you can. Your response is due by noon this Friday.
+* Today, I'll lecture on approaches to affect and media. 
+* I will also circulate and review [Worksheet 3](https://jentery.github.io/mdia200/worksheet3.html)) today. It covers material from Weeks 7, 8, and 9 and is due by Friday, November 10th at noon. 
+
+*Thursday, October 19th*
+
+* Please review our [glossary](https://jentery.github.io/mdia200/glossary.html) for Weeks 6 and 7 and let me know if you'd like me to clarify or elaborate anywhere. 
+* Today, we'll discuss "You Don't Like . . ." and conduct a social tie exercise. I'll also introduce some terms for engaging television in media studies. 
+
+*Friday, October 20th by 12pm* (no class; just a due date)
+
+* Please use Brightspace to submit Worksheet 2 (20% of your final mark) in DOCX, RTF, or PDF by noon today.  
+
 # Policies 
 
 Here are the policies for this course. If anything is unclear, ignorant, or mistaken, then please let me know. I'll correct it. 
