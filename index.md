@@ -261,7 +261,17 @@ Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% ce
 
 *Friday, November 10th by 12pm* (no class; just a due date)
 
-* Please use Brightspace to submit Worksheet 3 (20% of your final mark) in DOCX, RTF, or PDF by noon today.  
+* Please use Brightspace to submit Worksheet 3 (20% of your final mark) in DOCX, RTF, or PDF by noon today.
+
+## Individualized Feedback (Nov. 16)
+
+*Monday, November 13th* 
+
+* No class. UVic is closed for reading break.
+
+*Thursday, November 16th*
+
+* I'll be available via Zoom during class time and by appointment throughout the day to provide individualized feedback on your work. Attendance is optional. 
 
 # Policies 
 
