@@ -124,10 +124,7 @@ Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% ce
 * You don't need to do anything before class today. I'm looking forward to meeting you!
 * Today, we'll introduce ourselves, review the course outline, talk about our expectations, and then watch [*THE M00D 0F THE M0MENT*](https://www.yhchang.com/THE_MOOD_OF_THE_MOMENT_V.html) in class. 
 * I encourage you to review this course outline after class and email me your questions and concerns, including any concerns about the accessibility of this course and its material. Odds are good I made a mistake, missed something, or skimmed over important information. Don't hesitate to call me on it.
-
-***
-
-[View the notes for Week 1](https://jentery.github.io/mdia200/notes.html#week-1-sept-7-media-are-material-agents). 
+* Here are my [notes for Week 1](https://jentery.github.io/mdia200/notes.html#week-1-sept-7-media-are-material-agents). 
 
 ## Week 2 (Sept. 11 and 14): Media and Interpersonal Communication
 
@@ -142,8 +139,6 @@ Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% ce
 
 * Please review our [glossary](https://jentery.github.io/mdia200/glossary.html) for Weeks 1 and 2 and let me know if you'd like me to clarify or elaborate anywhere. 
 * Today, we'll discuss *Secrets Agent* and conduct a design document workshop in class. I'll also introduce some terms for engaging video games in media studies.
-
-[View the notes for Week 2](). 
 
 # Policies 
 
