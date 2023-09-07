@@ -113,6 +113,10 @@ I suggest dedicating *3 to 5 hours of study and practice* to MDIA 200 each week,
 
 I will give you time during class to draft some responses to prompts / questions in your worksheets; however, you will need more time (between classes) to develop and refine your work, hence the recommended 3 to 5 hours per week.  
 
+# Schedule
+
+Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% certain there will be changes. I will use a Brightspace announcement to notify you at least two weeks in advance of those changes, and I will never use schedule changes to increase your workload (e.g., add an assignment or reading). 
+
 # Policies 
 
 Here are the policies for this course. If anything is unclear, ignorant, or mistaken, then please let me know. I'll correct it. 
@@ -200,7 +204,3 @@ The [Student Services website](https://www.uvic.ca/studentaffairs/departments/st
 Many thanks to everyone in [UVic's Praxis Studio](https://uvicpraxis.github.io/) for their support and suggestions for this course. Some material in this outline was informed and inspired by the Media Texthack Team's [Media Studies 101](https://opentextbc.ca/mediastudies101/) project. 
 
 *This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
-
-# Schedule
-
-Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% certain there will be changes. I will use a Brightspace announcement to notify you at least two weeks in advance of those changes, and I will never use schedule changes to increase your workload (e.g., add an assignment or reading). 
