@@ -156,6 +156,27 @@ Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% ce
 
 *Please note that Tuesday, September 19th is the last day for 100% reduction of tuition fees for standard first term and full year courses.*
 
+## Week 4 (Sept. 25 and 28): Media and Communication as Culture
+
+*Monday, September 25th*
+
+* Please play [*Hair Nah*](https://www.momopixel.com/hair-nah) before we meet today. 
+* I recommend completing a draft of Worksheet 1 early this week. Your response is due by noon this Friday. 
+* Today, I'll lecture on cultural approaches to media and communication by drawing examples from *Hair Nah*. 
+* I will circulate and review [Worksheet 2](https://jentery.github.io/mdia200/worksheet2.html) today, too. It covers material from Weeks 4, 5, and 6 and is due by Friday, October 20th at noon. 
+
+*Thursday, September 28th*
+
+* Please read "Translated, From the Japanese" (PDF) before we meet today. 
+* Please review our [glossary](https://jentery.github.io/mdia200/glossary.html) for Weeks 3 and 4 and let me know if you'd like me to clarify or elaborate anywhere. 
+* Today, we'll discuss "Translated, From the Japanese" and conduct an annotation exercise. I'll also introduce some terms for engaging comics and other images in media studies. 
+
+*Friday, September 29th by 12pm* (no class; just a due date)
+
+* Please use Brightspace to submit Worksheet 1 (20% of your final mark) in DOCX, RTF, or PDF by noon today.  
+
+*Please note that Saturday, September 30th is the last day for paying first term fees without penalty.*
+
 # Policies 
 
 Here are the policies for this course. If anything is unclear, ignorant, or mistaken, then please let me know. I'll correct it. 
