@@ -74,7 +74,7 @@ During the course, we'll study the following (in this order):
 
 We will also talk about Hwang Dong-hyuk's *Squid Game* (2021), but I am not assigning it for you to watch. We'll discuss Angela Haupt's ["You Don’t Like Violence But Want to Watch *Squid Game.* These Tips Can Help"](https://www.washingtonpost.com/lifestyle/2021/10/14/tv-violence-squid-game-watch/) (2021) instead. 
 
-I am providing you with a [glossary](https://jentery.github.io/mdia200/glossary.html) of terms mentioned during lectures and discussions. I will update this glossary for every lecture and encourage you to consult it weekly.  
+I am providing you with a [glossary](https://jentery.github.io/mdia200/glossary.html) of key terms as well as [my notes](https://jentery.github.io/mdia200/notes.html) for each week. I encourage you to consult both documents regularly.  
 
 I'll use the course Brightspace to: 
 
