@@ -301,7 +301,19 @@ Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% ce
 
 *Friday, December 1st by 12pm* (no class; just a due date)
 
-* Please use Brightspace to submit Worksheet 4 (15% of your final mark) in DOCX, RTF, or PDF by noon today.   
+* Please use Brightspace to submit Worksheet 4 (15% of your final mark) in DOCX, RTF, or PDF by noon today.
+
+## Week 14 (Dec. 4 and 15): Exit Survey
+
+*Monday, December 4th* 
+
+* I'll ask you to complete an exit survey about applying Media Studies in your Final Project. We'll complete course experience surveys, too. 
+* We'll celebrate the end of term and all the work you did in this course. 
+
+*Friday, December 15th by noon* (no class; just a due date)
+
+* Please use Brightspace to submit your Final Project (25% of your final mark) in DOCX, RTF, or PDF by noon today. 
+* Thank you for all the work you did this term!
 
 # Policies 
 
