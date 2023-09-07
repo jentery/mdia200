@@ -112,5 +112,3 @@ The most important thing to know about this course is that *I'll opt for care in
 I suggest dedicating *3 to 5 hours of study and practice* to MDIA 200 each week, plus 3 hours for weekly meetings (MTh). Of course, 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work and materials involved.
 
 I will give you time during class to draft some responses to prompts / questions in your worksheets; however, you will need more time (between classes) to develop and refine your work, hence the recommended 3 to 5 hours per week.  
-
-I will give you time during class to draft some responses to prompts in your worksheets; however, you will need more time (between classes) to develop and refine your work, hence the recommended 3 to 5 hours per week.  
