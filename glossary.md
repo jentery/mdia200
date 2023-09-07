@@ -7,6 +7,8 @@ Taught by [Jentery Sayers](https://jntry.work/) (he / him)
 
 This glossary is intended as a reference for students in Media Studies 200. Let me know if you'd like me to clarify or correct any of these definitions, especially if you encounter a mistake or typo. Please also inform me if a key term from a given week isn't in the glossary.
 
+You can consult [my notes](https://jentery.github.io/mdia200/notes.html) for each week as well. 
+
 ## Week 1 (Sept. 7): Media Are Material Agents
 
 * *analog*: a means of reproduction involving the use of continuously variable (rather than discrete) changes in physical properties; print and cassettes are examples of analog reproduction.  
