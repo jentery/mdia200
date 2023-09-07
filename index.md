@@ -177,6 +177,28 @@ Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% ce
 
 *Please note that Saturday, September 30th is the last day for paying first term fees without penalty.*
 
+## Weeks 5 and 6 (Oct. 5 and 12): Media and Art
+
+*Monday, October 2nd*
+
+* No class. UVic is closed for National Day for Truth and Reconciliation (September 30th). 
+
+*Thursday, October 5th*
+
+* Please watch [*Biidaaban (The Dawn Comes)*](https://www.spottedfawnproductions.com/biidaaban/) before we meet today. 
+* Today, I'll lecture on approaches to media and art and talk about media as an artistic practice. 
+
+*Monday, October 9th* 
+
+* No class. UVic is closed for Thanksgiving Day. 
+
+*Thursday, October 12th*
+
+* Please review our [glossary](https://jentery.github.io/mdia200/glossary.html) for Weeks 4, 5, and 6 and let me know if you'd like me to clarify or elaborate anywhere. 
+* Today, we'll discuss *Biidaaban (The Dawn Comes)* and conduct a masking exercise. I'll also introduce some terms for engaging animation and video in media studies. 
+
+*Please note that Tuesday, October 10th is the last day for 50% reduction of tuition fees for standard courses.*
+
 # Policies 
 
 Here are the policies for this course. If anything is unclear, ignorant, or mistaken, then please let me know. I'll correct it. 
