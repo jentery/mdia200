@@ -5,7 +5,7 @@ Taught by [Jentery Sayers](https://jntry.work/) (he / him)
 
 # Glossary of Media Studies Terms
 
-This glossary is intended as a reference for students in Media Studies 200. Let me know if you'd like me to clarify or correct any of these definitions, especially if you encounter a mistake or typo. Please also inform me if a key term from a given week isn't in this glossary. 
+This glossary is intended as a reference for students in Media Studies 200. Let me know if you'd like me to clarify or correct any of these definitions, especially if you encounter a mistake or typo. Please also inform me if a key term from a given week isn't in the glossary. 
 
 ## Week 1 (Sept. 7): Media Are Material Agents
 
