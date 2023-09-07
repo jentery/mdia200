@@ -271,7 +271,19 @@ Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% ce
 
 *Thursday, November 16th*
 
-* I'll be available via Zoom during class time and by appointment throughout the day to provide individualized feedback on your work. Attendance is optional. 
+* I'll be available via Zoom during class time and by appointment throughout the day to provide individualized feedback on your work. Attendance is optional.
+
+# Week 12 (Nov. 20 and 23): Media and Identity
+
+*Monday, November 20th*
+
+* Please spend at least 30 minutes watching a Twitch livestream on a channel from the list I provided. Take notes as you do.  
+* Today, I'll lecture on media and identity and begin our discussion of Twitch. 
+
+*Thursday, November 23rd* 
+
+* Please review our [glossary](https://jentery.github.io/mdia200/glossary.html) for Weeks 10 and 12 and let me know if you'd like me to clarify or elaborate anywhere. 
+* Today, we'll discuss Twitch and conduct a wireframing exercise. I'll also introduce some terms for engaging livestreams in media studies. 
 
 # Policies 
 
