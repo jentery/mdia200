@@ -139,7 +139,22 @@ Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% ce
 
 * Please review our [glossary](https://jentery.github.io/mdia200/glossary.html) for Weeks 1 and 2 and let me know if you'd like me to clarify or elaborate anywhere. 
 * Today, we'll discuss *Secrets Agent* and conduct a design document workshop in class. I'll also introduce some terms for engaging video games in media studies. 
-* Here are my [notes for Week 2](https://jentery.github.io/mdia200/notes.html#week-2-sept-11-and-14-media-and-interpersonal-communication). 
+* Here are my [notes for Week 2](https://jentery.github.io/mdia200/notes.html#week-2-sept-11-and-14-media-and-interpersonal-communication).
+
+## Week 3 (Sept. 18 and 21): Media and Mass Communication
+
+*Monday, September 18th*
+
+* Please listen to Season 1, Cassette 1 ("Stress, Shoulders") of [*Within the Wires*](https://beta.prx.org/stories/232303) before we meet today. I'll circulate a transcript, too. 
+* I also recommend completing at least half of Worksheet 1 by today. Your response is due by noon on Friday, September 29th. 
+* Today, I'll lecture on approaches to media in organizational and mass communication and begin our discussion of *Within the Wires*.
+
+*Thursday, September 21st* 
+
+* Please review our [glossary](https://jentery.github.io/mdia200/glossary.html) for Weeks 2 and 3 and let me know if you'd like me to clarify or elaborate anywhere. 
+* Today, we'll discuss *Within the Wires* and conduct a relaxation . . . er . . . recontextualization exercise. I'll also introduce some terms for engaging podcasts in media studies. 
+
+*Please note that Tuesday, September 19th is the last day for 100% reduction of tuition fees for standard first term and full year courses.*
 
 # Policies 
 
