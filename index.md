@@ -61,7 +61,7 @@ During the course, we'll study the following (in this order):
 
 * The Flash animation, [*THE M00D 0F THE M0MENT*](https://www.yhchang.com/THE_MOOD_OF_THE_MOMENT_V.html) (2007), by Young-Hae Chang Heavy Industries
 * The browser game, [*Secrets Agent*](https://even-kei.itch.io/secrets-agent) (2014), by Marina Kittaka 
-* The dramatic podcast, [*Within the Wires*](http://www.nightvalepresents.com/withinthewires) (2016), by  Janina Matthewson, Jeffrey Cranor, Mary Epworth, and Nightvale
+* The dramatic podcast, [*Within the Wires*](http://www.nightvalepresents.com/withinthewires) (2016), by  Janina Matthewson, Jeffrey Cranor, Mary Epworth, and Night Vale
 * The browser game, [*Hair Nah*](https://www.momopixel.com/hair-nah) (2017), by Momo Pixel
 * The comic, ["Translated, From the Japanese"](https://drawnandquarterly.com/books/killing-and-dying/) (2015), by Adrian Tomine  
 * The stop-motion animation, [*Biidaaban (The Dawn Comes)*](https://www.spottedfawnproductions.com/biidaaban/) (2018), by Amanda Strong, Leanne Betasamosake Simpson, and Bracken Hanuse Corlett 
@@ -70,7 +70,7 @@ During the course, we'll study the following (in this order):
 * The video game, [*Umurangi Generation*](https://www.umurangigeneration.com/) (2020), by Origame Digital and Naphtali Faulkner
 * A [Twitch](https://www.twitch.tv/) livestream of your choice (from a list of channels I'll provide)
 * The browser game, [*Under a Star Called Sun*](https://haraiva.itch.io/under-a-star-called-sun) (2020), by Cecile Richard
-* The video essay, ["Completionism, 'Good' Endings, and the Detective Genre in *NORCO*"](https://www.youtube.com/watch?v=jwJ4LWDf4pk&t=2s)(2023), by Asia Tyson 
+* The video essay, ["Completionism, 'Good' Endings, and the Detective Genre in *NORCO*"](https://www.youtube.com/watch?v=RZhCF1zBDoo) (2023), by Asia Tyson 
 
 We will also talk about Hwang Dong-hyuk's *Squid Game* (2021), but I am not assigning it for you to watch. We'll discuss Angela Haupt's ["You Don’t Like Violence But Want to Watch *Squid Game.* These Tips Can Help"](https://www.washingtonpost.com/lifestyle/2021/10/14/tv-violence-squid-game-watch/) (2021) instead. 
 
@@ -81,7 +81,7 @@ I'll use the course Brightspace to:
 * Circulate weekly announcements (usually on Thursday or Friday) to help you plan for what's coming next,  
 * Provide you with copies of some assigned materials, 
 * Point you to other assigned materials available online, 
-* Accept all your assignments, including your four worksheets and your final project (please don't submit anything to me by email),  
+* Accept all your assignments, including your four worksheets and final project (please don't submit anything to me by email),  
 * Comment on those assignments, and  
 * Mark those assignments according to rubrics I'll provide.    
 
