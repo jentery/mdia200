@@ -263,7 +263,7 @@ Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% ce
 
 * Please use Brightspace to submit Worksheet 3 (20% of your final mark) in DOCX, RTF, or PDF by noon today.
 
-## Individualized Feedback (Nov. 16)
+## Week 11 (Nov. 16): Individualized Feedback
 
 *Monday, November 13th* 
 
