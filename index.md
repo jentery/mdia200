@@ -137,7 +137,7 @@ This implies that media are subject to the elements. Vinyl records warp in extre
 
 These physical aspects of media are the facts of media studies. Media record and rot; they capture our attention, buffer, and fade away. Without the stuff of audio, images, text, and video, media scholars don't have much to study. And that's merely the start of it. Once we grasp media as materials, we must learn to approach them critically and responsibly as forms of *mediation* in the world. Doing so enriches our understanding *and* experience of them. It also improves our chances of producing compelling content in the present moment.  
 
-Surveying critical approaches to media and producing compelling content are the primary aims of Media Studies 200. What are the roles of media in interpersonal and mass communication? How are media also artistic or cultural practices? How do we make meaning and construct narratives with media, how are they owned or controlled, how do they address or act upon us, and what roles do they play in identity, power, oppression, memory, and everyday life? These questions and more will guide us through the term, and along the way they'll correspond with other popular frameworks for media, including "the media" (the means of mass communication, like broadcasting, television, and the internet), "elemental media" (such as earth, water, air, and fire), and even how our bodies become media during communication. 
+Surveying critical approaches to media and producing compelling content are the primary aims of Media Studies 200. What are the roles of media in interpersonal and mass communication? How are media also artistic or cultural practices? How do we make meaning and construct narratives with media, how are they owned or controlled, how do they address or act upon us, and what roles do they play in identity, power, oppression, memory, and everyday life? These questions and more will guide us through the term, and along the way they'll correspond with other popular frameworks for media, including "the media" (the means of mass communication, like broadcasting, publishing, and the internet), "elemental media" (such as earth, water, air, and fire), and even how our bodies become media during communication. 
 
 I do not want and will not expect you to adopt every angle on media studies that we'll try in this course. My hope is you'll identify one approach that resonates well with your interests and ultimately apply it to produce your own content in the final assignment (due by Friday, December 15th). Each week of Media Studies 200 has a theme and primary source(s) that should assist you in that application, and every approach will be "multimodal" in some fashion&#8212;that is, it will invite more than one mode of communication or sensation to combine activities such as hearing, listening, seeing, looking, watching, reading, touching, and playing.
 
@@ -159,7 +159,7 @@ Denotation: identify and describe four types of media or "material agents" in *M
 
 *Approaches addressed in Week 1*
 
-Multimodality, transduction, media preservation 
+Multimodality, transduction, digital preservation 
 
 ## Week 2 (Sept. 11 and 14): Media and Interpersonal Communication
 
