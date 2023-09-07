@@ -96,4 +96,10 @@ This week, media are not only material agents but also *mechanisms* for reproduc
 
 Approaches addressed this week: political economy; neoliberalism; vertical and horizontal integration; labour studies; infrastructure studies; ownership effects (public, private, corporate, and indie); media regulation; the culture industry; the content industry; fandom and participatory culture
 
+# Week 12 (Nov. 20 and 23) - media and identity (forces)
 
+voice, role models, participatory culture but also oppression
+
+livestream Twitch - pick 
+
+wireframe your own channel - describe content and audience
