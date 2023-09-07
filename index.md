@@ -138,7 +138,8 @@ Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% ce
 *Thursday, September 14th*
 
 * Please review our [glossary](https://jentery.github.io/mdia200/glossary.html) for Weeks 1 and 2 and let me know if you'd like me to clarify or elaborate anywhere. 
-* Today, we'll discuss *Secrets Agent* and conduct a design document workshop in class. I'll also introduce some terms for engaging video games in media studies.
+* Today, we'll discuss *Secrets Agent* and conduct a design document workshop in class. I'll also introduce some terms for engaging video games in media studies. 
+* Here are my [notes for Week 2](https://jentery.github.io/mdia200/notes.html#week-2-sept-11-and-14-media-and-interpersonal-communication). 
 
 # Policies 
 
