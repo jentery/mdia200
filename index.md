@@ -69,8 +69,8 @@ During the course, we'll study the following (in this order):
 * The mobile game, [*Pokémon GO*](https://pokemongolive.com/) (2016), by Niantic
 * The video game, [*Umurangi Generation*](https://www.umurangigeneration.com/) (2020), by Origame Digital and Naphtali Faulkner
 * A [Twitch](https://www.twitch.tv/) livestream of your choice (from a list of channels I'll provide)
+* The video essay, ["Completionism, 'Good' Endings, and the Detective Genre in *NORCO*"](https://www.youtube.com/watch?v=RZhCF1zBDoo) (2023), by Asia Tyson
 * The browser game, [*Under a Star Called Sun*](https://haraiva.itch.io/under-a-star-called-sun) (2020), by Cecile Richard
-* The video essay, ["Completionism, 'Good' Endings, and the Detective Genre in *NORCO*"](https://www.youtube.com/watch?v=RZhCF1zBDoo) (2023), by Asia Tyson 
 
 We will also talk about Hwang Dong-hyuk's *Squid Game* (2021), but I am not assigning it for you to watch. We'll discuss Angela Haupt's ["You Don’t Like Violence But Want to Watch *Squid Game.* These Tips Can Help"](https://www.washingtonpost.com/lifestyle/2021/10/14/tv-violence-squid-game-watch/) (2021) instead. 
 
@@ -283,7 +283,25 @@ Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% ce
 *Thursday, November 23rd* 
 
 * Please review our [glossary](https://jentery.github.io/mdia200/glossary.html) for Weeks 10 and 12 and let me know if you'd like me to clarify or elaborate anywhere. 
-* Today, we'll discuss Twitch and conduct a wireframing exercise. I'll also introduce some terms for engaging livestreams in media studies. 
+* Today, we'll discuss Twitch and conduct a wireframing exercise. I'll also introduce some terms for engaging livestreams in media studies.
+
+# Week 13 (Nov. 27 and 30): Media and Memory
+
+*Monday, November 27th* 
+
+* I recommend completing a draft of Worksheet 4 early this week. Your response is due by noon this Friday. 
+* Please watch ["Completionism, 'Good' Endings, and the Detective Genre in *NORCO*"](https://www.youtube.com/watch?v=RZhCF1zBDoo) before we meet today. 
+* Today, we'll talk about "Completionism . . ." and plans for your Final Project. 
+
+*Thursday, November 30th*
+
+* Please play [*Under a Star Called Sun*](https://haraiva.itch.io/under-a-star-called-sun) before we meet today. 
+* Please review our [glossary](https://jentery.github.io/mdia200/glossary.html) for Weeks 12 and 13 and let me know if you'd like me to clarify or elaborate anywhere. 
+* Today, we'll discuss media, memory, and *Under a Star* and conduct a documentation exercise. 
+
+*Friday, December 1st by 12pm* (no class; just a due date)
+
+* Please use Brightspace to submit Worksheet 4 (15% of your final mark) in DOCX, RTF, or PDF by noon today.   
 
 # Policies 
 
