@@ -253,8 +253,9 @@ Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% ce
 * Today, I'll lecture on the economy of media and begin our discussion of *Umurangi Generation*. 
 * I will also circulate and review [Worksheet 4](https://jentery.github.io/mdia200/worksheet4.html). It covers material from Weeks 10 and 12 and is due by Friday, December 1st at noon. 
 
-*Thursday, November 9th* 
+*Thursday, November 9th* (we'll meet online today via Zoom)
 
+* Please play or watch [*Umurangi Generation*](https://www.umurangigeneration.com/) for today's meeting. 
 * Please review our [glossary](https://jentery.github.io/mdia200/glossary.html) for Weeks 9 and 10 and let me know if you'd like me to clarify or elaborate anywhere. 
 * Today, we'll discuss *Umurangi Generation* and conduct a tracing exercise. I'll also introduce some terms for engaging simulations in media studies. 
 
