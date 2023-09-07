@@ -234,9 +234,9 @@ Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% ce
 
 *Monday, October 30th* 
 
-* Please watch or watch a game of *Pokémon GO* before we meet today. 
+* Please play or watch a game of *Pokémon GO* before we meet today. 
 * Today, I'll lecture on approaches to media and narrative and begin our discussion of *Pokémon GO*. 
-* I will also circulate and review the prompt for your Final Project, which is due by Friday, December 15th at noon. 
+* I will also circulate and review the prompt for your [Final Project](https://jentery.github.io/mdia200/final.html), which is due by Friday, December 15th at noon. 
 
 *Thursday, November 2nd* 
 
@@ -244,6 +244,23 @@ Here's the schedule for the term. It's subject to change. In fact, I'm 98.37% ce
 * Today, we'll discuss *Pokémon GO* and conduct a storyboarding exercise. I'll also introduce some terms for engaging mobile games and augmented reality in media studies.
 
 *Please note that Tuesday, October 31st is the last day for withdrawing from first term courses without penalty of failure.*
+
+## Week 10 (Nov. 6 and 9): The Economy of Media
+
+*Monday, November 6th*
+
+* I recommend completing a draft of Worksheet 3 early this week. Your response is due by noon this Friday. 
+* Today, I'll lecture on the economy of media and begin our discussion of *Umurangi Generation*. 
+* I will also circulate and review [Worksheet 4](https://jentery.github.io/mdia200/worksheet4.html). It covers material from Weeks 10 and 12 and is due by Friday, December 1st at noon. 
+
+*Thursday, November 9th* 
+
+* Please review our [glossary](https://jentery.github.io/mdia200/glossary.html) for Weeks 9 and 10 and let me know if you'd like me to clarify or elaborate anywhere. 
+* Today, we'll discuss *Umurangi Generation* and conduct a tracing exercise. I'll also introduce some terms for engaging simulations in media studies. 
+
+*Friday, November 10th by 12pm* (no class; just a due date)
+
+* Please use Brightspace to submit Worksheet 3 (20% of your final mark) in DOCX, RTF, or PDF by noon today.  
 
 # Policies 
 
