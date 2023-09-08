@@ -21,7 +21,9 @@ Contents:
 * [Assignments](#assignments) 
 * [Workload](#workload)   
 * [Schedule](#schedule)   
-* [Policies](#policies) 
+* [Policies](#policies)
+* [Notes](https://jentery.github.io/mdia200/notes.html) (new page)
+* [Glossary](https://jentery.github.io/mdia200/glossary.html) (new page) 
 
 # Territory Acknowledgement 
 
