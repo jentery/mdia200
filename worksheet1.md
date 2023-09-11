@@ -11,7 +11,7 @@ The worksheet is *open-book*, meaning you are allowed to use your notes, assigne
 
 ## Download the Worksheet 
 
-Please [download the worksheet](mdia200Worksheet1.docx) (DOCX format) to complete it in a word processor such as Microsoft Word, Google Docs, OpenOffice, LibreOffice, or Pages for Mac. You are also welcome to copy the prompts and paste them into a word processor to answer them. I do not recommend this approach because it's riskier than simply downloading the worksheet. If you nevertheless decide to copy and paste the prompts, then please ensure you include the Academic Integrity statement and a list of works cited (see below) in your response to the worksheet. 
+Please [download the worksheet](mdia200Worksheet1.docx) (DOCX format) to complete it in a word processor such as Microsoft Word, Google Docs, OpenOffice, LibreOffice, or Pages for Mac. You are also welcome to copy the prompts and paste them into a word processor to address them. I do not recommend this approach because it's riskier than simply downloading the worksheet. If you nevertheless decide to copy and paste the prompts, then please ensure you include the Academic Integrity statement and a list of works cited (see below) in your response to the worksheet. 
 
 If you need the worksheet in a format other than DOCX, then please let me know ASAP, and I'll make it happen ASAP. 
 
@@ -19,7 +19,7 @@ Note that the downloadable copy of the worksheet does *not* contain all the info
 
 ## Format
 
-This open-book worksheet is ten short-answer prompts, totaling 100 points. Responses to prompts in Section 1 are each worth 7 points, and responses to prompts in Section 2 are each worth 12 points. 
+This open-book worksheet contains ten short-answer prompts, totaling 100 points. Responses to prompts in Section 1 are each worth 7 points, and responses to prompts in Section 2 are each worth 12 points. 
 
 ## Academic Integrity 
 
@@ -32,7 +32,7 @@ By responding to this worksheet, you confirm that:
 
 ## Section 1 (7 points each)
 
-Please do not use more than *175 words* per response. (I will use a word counting tool during assessment.) Do not include audio, images, or video in your responses. Your examples should be drawn from course material in Weeks 2 and 3. By "course material," I mean assigned primary sources, lectures, class discussions, and the course website, including the notes and glossary. You are welcome and in fact encouraged to quote definitions in your responses, but please cite your sources, including the course website (see "Citing Your Sources" below for details). 
+Please do not use more than *175 words* per response. (I will use a word-counting tool during assessment.) Do not include audio, images, or video in your responses. Your examples should be drawn from course material in Weeks 2 and 3. By "course material," I mean assigned primary sources, lectures, class discussions, and the course website, including the notes and glossary. You are welcome and in fact encouraged to quote definitions in your responses, but please cite your sources, including the course website (see "Citing Your Sources" below for details). 
 
 1. Define "intersectionality" and use *one* example from the course material to briefly explain its importance in Media Studies. 
 2. Define "mechanics" in the context of video games and use *one* example from *Secrets Agent* to briefly explain its importance in Media Studies. 
@@ -41,15 +41,15 @@ Please do not use more than *175 words* per response. (I will use a word countin
 
 ## Section 2 (12 points each)
 
-Please do not use more than *225 words* per response. (I will use a word counting tool during assessment.) You are welcome to embed or attach audio, images, or video files as examples of content "outside the course material." These files may be your own, but please cite them if they are not. By "course material," I mean assigned primary sources, lectures, class discussions, and the course website, including the notes and glossary. Again, please cite your sources, including the course website (see "Citing Your Sources" below for details).
+Please do not use more than *225 words* per response. (I will use a word-counting tool during assessment.) You are welcome to embed or attach audio, images, or video files as examples of content "outside the course material." These files may be your own, but please cite them if they are not. By "course material," I mean assigned primary sources, lectures, class discussions, and the course website, including the notes and glossary. Again, please cite your sources, including the course website (see "Citing Your Sources" below for details).
 
 <ol start=5>
 <li>Use <em>one</em> example <em>outside</em> the course material to briefly explain the dynamic between "front stage" and "back stage" in the dramaturgy model of media and communication.</li>
-<li>During Week 2, I asked you to draft a simple game design document (in small groups) that describes <em>Secrets Agent</em>. Please use that document to explain, in your own words, Kittaka's approach to interpersonal communication in the game. You are welcome to create that game design document on your own if you missed class that day.</li>
+<li>During Week 2, I asked you to draft a simple game design document (in small groups) that describes <em>Secrets Agent</em>. Please use that document to explain, in your own words, Kittaka's approach to interpersonal communication in the game. You are welcome to create the game design document on your own if you missed class that day.</li>
 <li>Use <em>one</em> example <em>outside</em> the course material to briefly explain <em>two</em> differences between the transmission model and the social model of mass communication.</li>
 <li>During Week 3, I asked you to recontextualize <em>Within the Wires</em> (in small groups) by developing a backstory for Oleta or Hester. Please use that recontextualization to explain, in your own words, Oleta or Hester's role as a sender or receiver in Cassette 1's one-to-one and one-to-many communications.</li>
 <li>Use <em>one</em> example <em>outside</em> the course material to briefly explain <em>two</em> differences between interpersonal and mass communication, including the roles media play in them.</li>
-<li>Use <em>one</em> example <em>outside</em> the course material to briefly explain a situation when you would want or need to receive a "high fidelity" message through mass communication. Then use <em>one</em> more example <em>outside</em> the course material to briefly explain a situation when you would want or need to a participate in a two-way, interpersonal communication.</li>
+<li>Use <em>one</em> example <em>outside</em> the course material to briefly explain a situation when you would want or need to receive a "high fidelity" message through mass communication. Then use <em>one</em> more example <em>outside</em> the course material to briefly explain a situation when you would want or need to participate in a two-way, interpersonal communication.</li>
 </ol>
   
 ## Assessment 
@@ -58,7 +58,7 @@ I will use the following rubric, based on [UVic's official grading system](https
 
 * 7 points (Section 1) and 11-12 points (Section 2): the response is compelling, and it enriches or enhances the course material (exceeds all expectations); the use of an example is clear, focused, convincing, and inventive ("original insight")
 * 6 points (Section 1) and 10 points (Section 2): the response is compelling and corresponds with the course material (exceeds some or most expectations); the use of an example is clear, focused, and convincing 
-* 5 points (Section 1) and 9 points (Section 2): the response corresponds with the course material (meets expectations); the use of an example is clear and often focused or convincing 
+* 5 points (Section 1) and 9 points (Section 2): the response corresponds with the course material (meets expectations); the use of an example is clear, focused, and occasionally convincing 
 * 4 points (Section 1) and 7-8 points (Section 2:) the response corresponds with some of the course material (meets some expectations); the use of an example warrants some clarification  
 * 1-3 points (Section 1) and 1-6 points (Section 2): the response does not correspond much, if at all, with the course material and/or there's no example
 * 0 points: no response  
