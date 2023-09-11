@@ -71,7 +71,7 @@ Design document: draft a simple design document to describe *Secrets Agent* and 
 
 **Approaches addressed in Week 2** 
 
-Intersectionality, rhetoric, affordance theory, symbolic interactionism, looking-glass self, impressions management, future self, dramaturgy, parallel play
+Intersectionality, rhetoric, affordance theory, symbolic interactionism, looking-glass self, impressions management, dramaturgy, parallel play
 
 ## Week 3 (Sept. 18 and 21): Media and Mass Communication
 
