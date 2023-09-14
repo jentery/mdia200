@@ -75,4 +75,28 @@ Intersectionality, rhetoric, affordance theory, symbolic interactionism, looking
 
 ## Week 3 (Sept. 18 and 21): Media and Mass Communication
 
+This week, media are not only material agents but also *channels* for transmitting messages or *vehicles* for encoding and decoding them. Sender-receiver and one-to-many dynamics are common in the mass communication paradigm. Investments in information, fidelity, encryption, and scale are common, too. We'll talk about mass communication in the contexts of convergence and globalization and then revisit our Week 2 discussions about interpersonal communication. 
+
+**Questions for Week 3** 
+
+Do you think a message can be separated or extracted from its media or context? Is mass communication a linear process? When and why might you ask, "Can you hear me?" or "Did you get my message?" And when and why might you declare, "There will be no more communication"? 
+
+**Primary source for Week 3** 
+
+[Season 1, Cassette 1](https://beta.prx.org/stories/232303) of Janina Matthewson, Jeffrey Cranor, Mary Epworth, and Nightvale's [*Within the Wires*](http://www.nightvalepresents.com/withinthewires) (2016), which "takes the form of an audio course in full body relaxation issued by The Institute to you (the listener), a nameless medical inmate. Is the narrator relaying something more than just relaxation techniques? As listeners move through the relaxation curriculum a deeper and more personal story unravels." Content warning: bugs (including bug abuse), gaslighting, stalking, medical setting, and themes related to mental health and pathologization
+
+**Format for Week 3** 
+
+Podcast (anthology)
+
+**Technique for Week 3** 
+
+Recontextualization: develop the backstory for Oleta or Hester in *Within the Wires* to further explain why she performs the role of sender or receiver in the story's one-to-one and one-to-many communications. 
+
+**Approaches addressed in Week 3**
+
+the transmission model of communication, the social model of communication, two-step flow, convergence
+
+## Week 4 (Sept. 25 and 28): Media and Communication as Culture
+
 Coming next! 
