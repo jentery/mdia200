@@ -119,7 +119,7 @@ On the question of media's role in interpersonal communication
 
 *Games and Interpersonal Communication*
 
-During class, we recognized why activities like texting and phone calls involve interpersonal communication even if they do not occur face-to-face or in person. What if we pushed that inquiry further to consider video games? Can a video game be a conversation? Marina Kittaka's *Secrets Agent* will help us address that question. 
+During class, we recognized why activities like texting and phone calls involve interpersonal communication even if they do not occur face-to-face or in person. What if we pushed that inquiry further to consider video games? Can a video game be a conversation? Marina Kittaka's *Secrets Agent* will help us to address that question. 
 
 ## Week 3 (Sept. 18 and 21): Media and Mass Communication
 
