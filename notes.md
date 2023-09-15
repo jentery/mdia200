@@ -47,6 +47,13 @@ Denotation: identify and describe four types of media or "material agents" in *M
 
 Multimodality, transduction, digital preservation 
 
+**Recap of Week 1**
+
+Denotation is a literal description of a work's physical characteristics and your experience of them (e.g., what you see, hear, smell, read, watch, touch).
+
+* As a technique, it's particularly useful when a work invites you to leap into interpretations of its symbols, context, deeper meaning, and whatnot 
+* It also helps you to underscore how a work was *made* (labour) or *composed* (craft) and the degree to which it's accessible as both an experience and physical artifact.  
+
 ## Week 2 (Sept. 11 and 14): Media and Interpersonal Communication
 
 This week, media are not only material agents but also in the *middle* of your communication with someone else. Interpersonal communication usually refers to forms of one-to-one, two-way communication, including spoken language, sign language, and body language&#8212;instances when you may very well be the *messenger*. As the name suggests, interpersonal communication stresses in-person or "face-to-face"  communication yet may also involve everyday communications from a distance, like texting and phone calls. We'll talk about the rhetorical situations of interpersonal communication and how they shape the ways we relate to other people. We'll also consider those moments when media enhance interpersonal communication and when we feel like we're shouting into the abyss.  
@@ -67,7 +74,7 @@ Video game (browser game)
 
 **Technique for Week 2** 
 
-Design document: draft a simple design document to describe *Secrets Agent* and then use it to explain Kittaka's approach to interpersonal communication in the game. 
+Design document: draft a simple design document to describe *Secrets Agent* and then use it to explain Kittaka's approach to interpersonal communication in the game. If you're interested in examples of game design documents (GDD), then check out [Condor's GDD for *Diablo*](ttps://www.graybeardgames.com/download/diablo_pitch.pdf) in 1994.
 
 **Approaches addressed in Week 2** 
 
@@ -109,6 +116,10 @@ On the question of media's role in interpersonal communication
 * Where is the "front stage" of the communication? That is, where will I perform socially? 
 * Where is the "back stage" of the communication? That is, where will I prepare for the performance or "relax" from playing my role? 
 * Note: the dramaturgy model is most useful when studying the roles or “characters” people play in the organizational communication of formal institutions like governments and schools. Also, the boundaries between front and back are often blurred; a course on Zoom, where our homes are integrated with the online classroom and you get to meet my cat, is an example of such blurred boundaries.
+
+*Games and Interpersonal Communication*
+
+During class, we recognized why activities like texting and phone calls involve interpersonal communication even if they do not occur face-to-face or in person. What if we pushed that inquiry further to consider video games? Can a video game be a conversation? Marina Kittaka's *Secrets Agent* will help us address that question. 
 
 ## Week 3 (Sept. 18 and 21): Media and Mass Communication
 
