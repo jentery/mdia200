@@ -73,6 +73,43 @@ Design document: draft a simple design document to describe *Secrets Agent* and 
 
 Intersectionality, rhetoric, affordance theory, symbolic interactionism, looking-glass self, impressions management, dramaturgy, parallel play
 
+**Recap of Week 2**
+
+On the question of media's role in interpersonal communication 
+
+* Interpersonal communication is historically associated with F2F or in-person communication (where you are likely the messenger), so . . . what happens when we add audio, image, text, and video to that dynamic?
+* The practices of rhetoric, intersectionality, looking-glass self, impression management, and dramaturgy help us to address that question.
+
+*Intersectionality*
+
+* How am I positioned in this communication, and how am I experiencing it?  
+* How is this communication addressing power inequities and systemic biases? How is it reproducing them? 
+* What is the setting of the communication, who is at the centre, and how responsive are they to correction or change? 
+* To what degree is the communication two-way, and how does it not only recognize personal differences but also bring them into relation?  
+* Intersectionality underscores the fact any work of media will never have homogeneous or uniform effects (and thus interpretations will vary); we bring our lived experiences, including those of inequity and systemic bias, to the table of communication.  
+
+*Looking-glass self*
+
+* How does this person perceive me when we communicate?
+* How do they judge that perception? 
+* How am I developing a "real-time" sense of identity in light of that hypothetical judgement? (It's hypothetical because most aspects of  interpersonal communication are *left to the imagination*.
+* Note: the looking-glass self tends to overlook not only systemic issues like discrimination but also differences between types of social and cultural groups, with far more attention to “fit” than nonconformity, but it’s still somewhat common in social media discourse.
+
+*Impression management*
+
+* How do I communicate a persistent identity in this space or situation? 
+* How might that consistency become my "brand" or a story of who I am? 
+* How do I help ensure that people will interpret my message as I intended it?
+* Note: impression management is most useful when studying interpersonal and mass communication *strategies* for self-branding (or “defining your brand”) on platforms such as YouTube, Instagram, and TikTok.
+
+*Dramaturgy*
+
+* What social role can or should I assume in this interpersonal communication? 
+* How should that role be performed? What, for instance, will others expect me to communicate? What happens if I "break character"?
+* Where is the "front stage" of the communication? That is, where will I perform socially? 
+* Where is the "back stage" of the communication? That is, where will I prepare for the performance or "relax" from playing my role? 
+* Note: the dramaturgy model is most useful when studying the roles or “characters” people play in the organizational communication of formal institutions like governments and schools. Also, the boundaries between front and back are often blurred; a course on Zoom, where our homes are integrated with the online classroom and you get to meet my cat, is an example of such blurred boundaries.
+
 ## Week 3 (Sept. 18 and 21): Media and Mass Communication
 
 This week, media are not only material agents but also *channels* for transmitting messages or *vehicles* for encoding and decoding them. Sender-receiver and one-to-many dynamics are common in the mass communication paradigm. Investments in information, fidelity, encryption, and scale are common, too. We'll talk about mass communication in the contexts of convergence and globalization and then revisit our Week 2 discussions about interpersonal communication. 
