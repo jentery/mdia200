@@ -52,7 +52,7 @@ Multimodality, transduction, digital preservation
 Denotation is a literal description of a work's physical characteristics and your experience of them (e.g., what you see, hear, smell, read, watch, touch).
 
 * As a technique, it's particularly useful when a work invites you to leap into interpretations of its symbols, context, deeper meaning, and whatnot.
-* It also helps you to underscore how a work was *made* (labour) or *composed* (craft) and the degree to which it's accessible as both an experience and physical artifact.  
+* It also helps you to underscore how a work was *made* (labour) or *composed* (craft) and the degree to which it's accessible as both an experience and a physical artifact.  
 
 ## Week 2 (Sept. 11 and 14): Media and Interpersonal Communication
 
