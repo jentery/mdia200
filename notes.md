@@ -74,7 +74,7 @@ Video game (browser game)
 
 **Technique for Week 2** 
 
-Design document: draft a simple design document to describe *Secrets Agent* and then use it to explain Kittaka's approach to interpersonal communication in the game. If you're interested in examples of game design documents (GDD), then check out [Condor's GDD for *Diablo*](ttps://www.graybeardgames.com/download/diablo_pitch.pdf) in 1994.
+Design document: draft a simple design document to describe *Secrets Agent* and then use it to explain Kittaka's approach to interpersonal communication in the game. If you're interested in examples of game design documents (GDD), then check out [Condor's GDD for *Diablo*](https://www.graybeardgames.com/download/diablo_pitch.pdf) in 1994.
 
 **Approaches addressed in Week 2** 
 
