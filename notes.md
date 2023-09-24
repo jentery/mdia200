@@ -147,7 +147,7 @@ the transmission model of communication, the social model of communication, two-
 
 ## Week 4 (Sept. 25 and 28): Media and Communication as Culture
 
-This week, media are not only material agents but also *practices* that reproduce the communication habits and values of a *community* or *worldview*. Think of cosplay or Reddit communities, for example, alongside phrases like "indie culture," "the culture of Hollywood," "queer culture," and "gamer culture." Culture is, in this sense, a way of living as well as the content or "canon" associated with it. We'll talk about media and power as well as how cultural approaches offer alternatives to "media effects" paradigms and transmission models of communication. 
+This week, media are not only material agents but also *practices* that reproduce the communication habits and values of a *community* or *worldview*. Think of cosplay or Reddit communities, for example, alongside phrases like "indie culture," "the culture of Hollywood," "queer culture," and "gamer culture." Culture is, in this sense, a way of living and the content or "canon" associated with it. We'll talk about media and power as well as how cultural approaches offer alternatives to "media effects" paradigms or transmission models of communication. 
 
 **Questions for Week 4** 
 
