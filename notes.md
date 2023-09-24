@@ -165,7 +165,7 @@ comic (in a graphic novel)
 
 **Technique for Week 4** 
 
-Annotation: use the margins and gutters of "Translated, from the Japanese" to describe how it uses symbols and gestures to communicate the realities of Japan, the United States, and travel between them. 
+Annotation: use the margins and gutters of "Translated, from the Japanese" to describe how the comic constructs life in Japan, the United States, or the air (on a plane). 
 
 **Approaches addressed in Week 4**
 
