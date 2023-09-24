@@ -151,7 +151,7 @@ This week, media are not only material agents but also *practices* that reproduc
 
 **Questions for Week 4** 
 
-Why are media so often associated with popular culture? Do you think people tend to passively, actively, or selectively engage media? How are media entwined with how we learn to look, watch, listen, play, and even construct a reality? How do media become habits or institutions? 
+Why are media so often associated with popular culture? Do you think people tend to passively, actively, or selectively engage media? How are media entwined with how we learn to look, watch, listen, play, and even construct a reality? How do media practices become habits or institutions? 
 
 **Primary sources for Week 4** 
 
