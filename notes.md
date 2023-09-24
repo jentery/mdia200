@@ -169,4 +169,4 @@ Annotation: use the margins and gutters of "Translated, from the Japanese" to de
 
 **Approaches addressed in Week 4**
 
-media effects (direct, minimal, and third-person); uses and gratification model; social cognitive theory (especially representational modelling); cultivation effects (especially enculturation and mainstreaming); agenda setting; representation (especially absence and stereotypes); the ritual view of communication; cultural studies (including dominant, negotiated, and oppositional reading)
+media effects research; agenda-setting theory; cultivation theory; uses and gratification theory; social learning theory;  representation; the ritual view of communication; cultural studies
