@@ -48,6 +48,7 @@ Please do not use more than *225 words* per response. (I will use a word-countin
 <li>During Week 4, I asked you to annotate "Translated, From the Japanese" to describe how the comic constructs life in Japan, the United States, or the air (on a plane). Please use those annotations to explain, in your own words, how the comic communicates the experience of "learning to look." You are welcome to annotate the comic on your own if you missed class that day.</li>
 <li>Use <em>one</em> example <em>outside</em> the course material to briefly explain <em>two</em> differences between medium specificity and media convergence.</li>
 <li>During Week 6, I asked you to study <em>Biidaaban (The Dawn Comes)</em> by masking the images and then cutting the sound. Please use the results of that exercise to explain, in your own words, Strong and Simpson's approach to media aesthetics. You are welcome to perform the exercise on your own if you missed class that day.</li>
+<li>Use <em>one</em> example <em>outside</em> the course material to briefly explain a situation when media are milieus for social and sensory experiences that blur the boundaries between art and technology.</li>
 <li>Use <em>one</em> example <em>outside</em> the course material to briefly explain the role media play in "mirroring" or capturing aspects of the real world for audiences around the world to access. Then use <em>one</em> more example <em>outside</em> the course material to briefly describe the role media play in creating a world for audiences to inhabit or imagine.</li>
 </ol>
   
