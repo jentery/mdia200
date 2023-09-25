@@ -37,7 +37,7 @@ Please do not use more than *175 words* per response. (I will use a word-countin
 1. Define the "ritual view of communication" and then explain its importance using *one* example from *Hair Nah*.
 2. Define "optical image" and "perceptual image" in the context of comics and then explain their importance using *one* example from "Translated, From the Japanese." 
 3. Define "intermedia" and then explain its importance using *one* example from the course material.
-4. Define "*mise en scène*" and "lighting connotation" in animation and then explain its importance using *one* example from *Biidaaban (The Dawn Comes)*.
+4. Define "*mise en scène*" and "lighting connotation" in animation and then explain their importance using *one* example from *Biidaaban (The Dawn Comes)*.
 
 ## Section 2 (12 points each)
 
@@ -86,4 +86,4 @@ To respond to Worksheet 2, please submit a DOCX, ODT, PAGES, or PDF file contain
 
 Please use Brightspace to submit Worksheet 2 (20% of your final mark) in DOCX, RTF, or PDF by noon (12pm) on Friday, October 20th.
 
-You have a 24-hour grace period (excluding holidays and weekends) for every assignment in this course. I will deduct five points for every working day that I receive Worksheet 1 after Monday, October 23rd at noon (12pm). I will close the Brightspace submission portal for Worksheet 1 at noon (12pm) on Friday, November 3rd. 
+You have a 24-hour grace period (excluding holidays and weekends) for every assignment in this course. I will deduct five points for every working day that I receive Worksheet 2 after Monday, October 23rd at noon (12pm). I will close the Brightspace submission portal for Worksheet 2 at noon (12pm) on Friday, November 3rd. 
