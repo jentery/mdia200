@@ -34,10 +34,10 @@ By responding to this worksheet, you confirm that:
 
 Please do not use more than *175 words* per response. (I will use a word-counting tool during assessment.) Do not include audio, images, or video in your responses. Your examples should be drawn from course material in Weeks 4, 5, and 6. By "course material," I mean assigned primary sources, lectures, class discussions, and the course website, including the notes and glossary. You are welcome and in fact encouraged to quote definitions in your responses, but please cite your sources, including the course website (see "Citing Your Sources" below for details). 
 
-1. Define the "ritual view of communication" and use *one* example from *Hair Nah* to briefly explain the term's importance in Media Studies. 
-2. Define "optical image" and "perceptual image" in the context of comics and use *one* example from "Translated, From the Japanese" to briefly explain the terms' importance in Media Studies. 
-3. Define "intermedia" and use *one* example from the course material to briefly explain the term's importance in Media Studies. 
-4. Define "*mise en scène*" and "lighting connotation" in animation and use *one* example from *Biidaaban (The Dawn Comes)* to briefly explain the terms' importance in Media Studies. 
+1. Define the "ritual view of communication" and then explain its importance using *one* example from *Hair Nah*.
+2. Define "optical image" and "perceptual image" in the context of comics and then explain their importance using *one* example from "Translated, From the Japanese." 
+3. Define "intermedia" and then explain its importance using *one* example from the course material.
+4. Define "*mise en scène*" and "lighting connotation" in animation and then explain its importance using *one* example from *Biidaaban (The Dawn Comes)*.
 
 ## Section 2 (12 points each)
 
