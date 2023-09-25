@@ -9,6 +9,13 @@ These notes are intended for students in Media Studies 200. Let me know if you'd
 
 Consult the [glossary](https://jentery.github.io/mdia200/glossary.html) for definitions of key terms in Media Studies. 
 
+**Table of Contents**
+
+* [Week 1 (Sept. 7): Media Are Material Agents](#week-1-sept-7-media-are-material-agents)
+* [Week 2 (Sept. 11 and 14): Media and Interpersonal Communication](#week-2-sept-11-and-14-media-and-interpersonal-communication)
+* [Week 3 (Sept. 18 and 21): Media and Mass Communication](#week-3-sept-18-and-21-media-and-mass-communication)
+* [Week 4 (Sept. 25 and 28): Media and Communication as Culture](#week-4-sept-25-and-28-media-and-communication-as-culture)
+
 ## Week 1 (Sept. 7): Media Are Material Agents 
 
 Hello and welcome to Media Studies 200! I designed this course for us to engage four types of media: *audio, images, text, and video*. 
