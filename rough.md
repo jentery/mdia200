@@ -1,17 +1,3 @@
-## Weeks 5 and 6 (Oct. 5 and 12): Media and Art
-
-This week, media are not only material agents but also *environments* for intersecting art with technology. Here, art doesn't transcend its media or lay bare their essence. It is not dissolved by the power or allure of technology, either. It instead treats media as *milieus* for social and sensory experiences. Such milieus tend to blur the boundaries between what is and isn't art. We'll compare this perspective with last week's conversation about media and popular culture, including the common distinction between . . . ahem . . . "high" and "low" culture. 
-
-*Questions for these two week*: Do media always "deliver" a message? What are the politics of aesthetics, and the aesthetics of politics in media? Can you recall a moment when you struggled to distinguish between art and technology? Is it a mistake, or a trap, to associate art with novelty? How does art reflect, deflect, or filter reality, and when does it construct one? 
-
-*Primary source for these two weeks*: Amanda Strong, Leanne Betasamosake Simpson, and Bracken Hanuse Corlett's [*Biidaaban (The Dawn Comes)*](https://www.spottedfawnproductions.com/biidaaban/) (2018), where "Biidaaban and Sabe fight to continue traditionally collecting maple sap in modern-day suburban 'Ontario.'" Also see Simpson's poem, "Caribou Ghosts and Untold Stories." Content warning: settler colonialism (including physical and psychological violence), surveillance, and some horror motifs (especially in the lighting and music).
-
-*Format for these two weeks*: animation (stop-motion; video on streaming platforms)
-
-*Technique for these two weeks*: masking. Watch the animation as is and then attend only to the video (turn off the sound), only the audio (turn of the screen), and only the text (read Simpson's poetry). Describe the *Biidaaban*'s composition, message(s), and your experience of them as you go. Strong's [description](https://www.spottedfawnproductions.com/biidaaban) of *Biidaaban* is also informative here: “Since time immemorial, Indigenous people have harvested sap from trees to produce syrup, a practice that continues today. Biidaaban, a young Indigenous genderfluid person, and Sabe, a Sasquatch shape-shifter, set out to harvest sap from sugar maples in their urban environment. Biidaabaan can see traces of time, people, creatures and land. By harvesting syrup in this way, they are continuing the work of their ancestors. Ancestors and animals such as Ghost Caribou and Ghost Wolf are embedded within the landscape, but only Biidaaban can see them. These visuals reverberate throughout the work to draw from the past, but what we see is steadfast in the present.” 
-
-*Approaches addressed during these two weeks*: medium specificity, media art, intermedia, transmedia, experimental media, realism, auteur theory, artists direct
-
 ## Week 7 (Oct. 16 and 19): Media and Affect
 
 This week, media are not only material agents but also *vibes* felt, perhaps unconsciously, during the experience of watching, playing, reading, or the like. Such feelings are deeply corporeal and deeply social, like the shared pulse of horror in the cinema or the collective intensity of a co-op survival game. Media act upon you in these moments, and your body becomes an interface of sorts. We'll try to apply scholarship on affect by, somewhat ironically, talking about and around this week's primary source without watching it (partly because I was unsure whether to assign you the experience). Reaction vids are therefore optional.
