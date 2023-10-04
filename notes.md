@@ -15,6 +15,7 @@ Consult the [glossary](https://jentery.github.io/mdia200/glossary.html) for defi
 * [Week 2 (Sept. 11 and 14): Media and Interpersonal Communication](#week-2-sept-11-and-14-media-and-interpersonal-communication)
 * [Week 3 (Sept. 18 and 21): Media and Mass Communication](#week-3-sept-18-and-21-media-and-mass-communication)
 * [Week 4 (Sept. 25 and 28): Media and Communication as Culture](#week-4-sept-25-and-28-media-and-communication-as-culture)
+* [Weeks 5 and 6 (Oct. 5 and 12): Media and Art](#weeks-5-and-6-oct-5-and-12-media-and-art)
 
 ## Week 1 (Sept. 7): Media Are Material Agents 
 
@@ -177,3 +178,27 @@ Annotation: use the margins and gutters of "Translated, from the Japanese" to de
 **Approaches addressed in Week 4**
 
 media effects research; agenda-setting theory; cultivation theory; uses and gratification theory; social learning theory;  representation; the ritual view of communication; cultural studies
+
+## Weeks 5 and 6 (Oct. 5 and 12): Media and Art
+
+This week, media are not only material agents but also *environments* for intersecting art with technology. Here, art doesn't transcend its media or lay bare their essence. It is not dissolved by the power or allure of technology, either. It instead treats media as *milieus* for social and sensory experiences. Such milieus tend to blur the boundaries between what is and isn't art. We'll compare this perspective with last week's conversation about media and popular culture, including the common distinction between . . . ahem . . . "high" and "low" culture. 
+
+**Questions for Weeks 5 and 6**
+
+Do media always "deliver" a message? What are the politics of aesthetics, and the aesthetics of politics in media? Can you recall a moment when you struggled to distinguish between art and technology? Between art and not art? Is it a mistake, or a trap, to associate art with novelty? 
+
+**Primary sources for Weeks 5 and 6** 
+
+Amanda Strong, Leanne Betasamosake Simpson, and Bracken Hanuse Corlett's [*Biidaaban (The Dawn Comes)*](https://www.spottedfawnproductions.com/biidaaban/) (2018), where "Biidaaban and Sabe fight to continue traditionally collecting maple sap in modern-day suburban 'Ontario.'" Also see Simpson's poem, "Caribou Ghosts and Untold Stories." Content warning: settler colonialism (including physical and psychological violence), surveillance, and some horror motifs (especially in the lighting and music).
+
+**Format for Weeks 5 and 6**
+
+animation (stop-motion; video on streaming platforms)
+
+**Technique for Weeks 5 and 6**
+
+Masking: watch the animation as is and then attend only to the video (turn off the sound), only the audio (turn off the screen), and only the text (read Simpson's poetry). Describe *Biidaaban*'s composition, message(s), and your experience of them as you go. Strong's [description](https://www.spottedfawnproductions.com/biidaaban) of *Biidaaban* is also informative here: “Since time immemorial, Indigenous people have harvested sap from trees to produce syrup, a practice that continues today. Biidaaban, a young Indigenous genderfluid person, and Sabe, a Sasquatch shape-shifter, set out to harvest sap from sugar maples in their urban environment. Biidaabaan can see traces of time, people, creatures and land. By harvesting syrup in this way, they are continuing the work of their ancestors. Ancestors and animals such as Ghost Caribou and Ghost Wolf are embedded within the landscape, but only Biidaaban can see them. These visuals reverberate throughout the work to draw from the past, but what we see is steadfast in the present.” 
+
+**Approaches addressed in Weeks 5 and 6**
+
+medium specificity, intermedia, media convergence, media as milieu, auteur theory, artists direct
