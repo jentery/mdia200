@@ -201,4 +201,4 @@ Masking: watch the animation as is and then attend only to the video (turn off t
 
 **Approaches addressed in Weeks 5 and 6**
 
-medium specificity, intermedia, media convergence, media as milieu, auteur theory, artists direct
+medium specificity, intermedia, media convergence, media as milieus, auteur theory, artists direct
