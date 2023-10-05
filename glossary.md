@@ -9,6 +9,14 @@ This glossary is intended for reference by students in Media Studies 200. Let me
 
 You can consult [my notes](https://jentery.github.io/mdia200/notes.html) for each week as well. 
 
+## Table of Contents
+
+* [Week 1 (Sept. 7): Media Are Material Agents](#week-1-sept-7-media-are-material-agents)
+* [Week 2 (Sept. 11 and 14): Media and Interpersonal Communication](#week-2-sept-11-and-14-media-and-interpersonal-communication)
+* [Week 3 (Sept. 18 and 21): Media and Mass Communication](#week-3-sept-18-and-21-media-and-mass-communication)
+* [Week 4 (Sept. 25 and 28): Media and Communication as Culture](#week-4-sept-25-and-28-media-and-communication-as-culture)
+* [Weeks 5 and 6 (Oct. 5 and 12): Media and Art](#weeks-5-and-6-oct-5-and-12-media-and-art)
+
 ## Week 1 (Sept. 7): Media Are Material Agents
 
 * **analog**: a means of reproduction involving the use of continuously variable (rather than discrete) changes in physical properties; print and cassettes are examples of analog reproduction.  
