@@ -48,7 +48,7 @@ Please do not use more than *300 words* per response. (I will use a word-countin
 <ol start=5>
 <li>What is mimetic communication? Use an example <em>outside</em> the course material to explain its importance.</li>
 <li>Kamla says the following in Hopkinson's "Message in a Bottle": "Sometimes interpretation is a trap. Sometimes we need to simply observe" (23). Could Kamla's remark be understood as a criticism of semiotics? Why or why not?</li>
-<li>Describe a moment when you felt a "shared pulse" while experiencing a particular work of media with other people. What role did affect play in the experience, and what was social or shared about it? Be sure to identify and cite the work. It can be a video game, comic, tv show, animation, podcast, or livestream.</li>   
+<li>Describe a moment when you felt a "shared pulse" while experiencing a particular work of media with other people. What role did affect play in the experience, and what was social or shared about it? Be sure to identify and cite the work. It can be a video game, comic, tv show, animation, podcast, short story, novel, or livestream.</li>   
 <li>Please use storyboarding to transform the experience of playing a video game of your choice into a narrative of your choice. The narrative should consist of at least three "shots" or scenes, with equilibrium, disruption, and a new equilibrium. Be sure to embed or attach your storyboard.</li>
 </ol>
   
