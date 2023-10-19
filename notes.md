@@ -202,3 +202,15 @@ Masking: watch the animation as is and then attend only to the video (turn off t
 **Approaches addressed in Weeks 5 and 6**
 
 medium specificity, intermedia, media convergence, media as milieus, auteur theory, artists direct
+
+## Week 7 (Oct. 16 and 19): Media and Affect
+
+This week, media are not only material agents but also *vibes* felt, perhaps unconsciously, during the experience of watching, playing, reading, or the like. Such feelings are deeply corporeal and deeply social, like the shared pulse of horror in the cinema or the collective intensity of a co-op survival game. Media act upon you in these moments, and your body becomes an interface of sorts. We'll try to apply scholarship on affect by, somewhat ironically, talking about and around this week's primary source without watching it (partly because I was unsure whether to assign you the experience). Reaction vids are optional.
+
+*Questions for this week*: How are the corporeal experiences of media entwined with liveness? With trends and hype cycles? With power? How is affect contagious? How would you describe the relation between affect and your personal sense of agency? 
+
+*Primary source for the week*: Hwang Dong-hyuk's *Squid Game* (2021). But don't watch it (unless you have already). Please read this secondary source instead: Angela Haupt's ["You Don’t Like Violence But Want to Watch *Squid Game.* These Tips Can Help"](https://www.washingtonpost.com/lifestyle/2021/10/14/tv-violence-squid-game-watch/) (2021). 
+
+*Format for the week*: television (serialized into nine episodes; streaming on Netflix)
+
+*Approaches addressed this week*: affect theory, bandwagon effect, mimetic communication, premediation
