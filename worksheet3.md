@@ -7,7 +7,7 @@ Taught by [Jentery Sayers](https://jntry.work/) (he / him)
 
 This is your third of four worksheets in MDIA 200, and it covers material from Weeks 7, 8, and 9 (Oct. 16 - Nov. 2) of class. Your response is due via Brightspace by the end of Week 10: Friday, November 10th at noon.
 
-The worksheet is *open-book*, meaning you are allowed to use your notes, assigned primary sources, the library, and the internet to address the prompts.
+The worksheet is *open-book*, meaning you are allowed to use your notes, assigned primary sources, the course website, the library, and the internet to address the prompts.
 
 *Please ensure you cite your source material.* 
 
