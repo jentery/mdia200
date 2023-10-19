@@ -37,7 +37,7 @@ By responding to this worksheet, you confirm that:
 Please do not use more than *225 words* per response. (I will use a word-counting tool during assessment.) Do not include audio, images, or video in your responses. Your examples should be specific, citable, and drawn from course material between Weeks 1 and 9. By "course material," I mean assigned primary sources, lectures, class discussions, and the course website, including the notes and glossary. You are welcome and in fact encouraged to quote definitions in your responses, but please cite your sources, including the course website (see "Citing Your Sources" below for details). 
 
 1. What is affect? Use an example from the course material to explain its importance.  
-2. What is semiotics? Use an example from the course material to explain their importance. 
+2. What is semiotics? Use an example from the course material to explain its importance. 
 3. What is environmental storytelling? Use an example from the course material to explain its importance. 
 4. What's the difference between a story and a narrative? Use an example from the course material to explain this difference. 
 
