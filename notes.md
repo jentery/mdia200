@@ -208,10 +208,40 @@ medium specificity, intermedia, media convergence, media as milieus, auteur theo
 
 This week, media are not only material agents but also *vibes* felt, perhaps unconsciously, during the experience of watching, playing, reading, or the like. Such feelings are deeply corporeal and deeply social, like the shared pulse of horror in the cinema or the collective intensity of a co-op survival game. Media act upon you in these moments, and your body becomes an interface of sorts. We'll try to apply scholarship on affect by, somewhat ironically, talking about and around this week's primary source without watching it (partly because I was unsure whether to assign you the experience). Reaction vids are optional.
 
-*Questions for this week*: How are the corporeal experiences of media entwined with liveness? With trends and hype cycles? With power? How is affect contagious? How would you describe the relation between affect and your personal sense of agency? 
+**Questions for Week 7** 
 
-*Primary source for the week*: Hwang Dong-hyuk's *Squid Game* (2021). But don't watch it (unless you have already). Please read this secondary source instead: Angela Haupt's ["You Don’t Like Violence But Want to Watch *Squid Game.* These Tips Can Help"](https://www.washingtonpost.com/lifestyle/2021/10/14/tv-violence-squid-game-watch/) (2021). 
+How are the corporeal experiences of media entwined with liveness? With trends and hype cycles? With power? How is affect contagious? How would you describe the relation between affect and your personal sense of agency? 
 
-*Format for the week*: television (serialized into nine episodes; streaming on Netflix)
+**Primary source for Week 7** 
 
-*Approaches addressed this week*: affect theory, bandwagon effect, mimetic communication, premediation
+Hwang Dong-hyuk's *Squid Game* (2021). But don't watch it (unless you have already). Please read this secondary source instead: Angela Haupt's ["You Don’t Like Violence But Want to Watch *Squid Game.* These Tips Can Help"](https://www.washingtonpost.com/lifestyle/2021/10/14/tv-violence-squid-game-watch/) (2021). 
+
+**Format for Week 7** 
+
+television (serialized into nine episodes; streaming on Netflix)
+
+**Approaches addressed in Week 7**
+
+affect theory, bandwagon effect, mimetic communication, premediation
+
+## Week 8 (Oct. 23 and 26): Media and Meaning
+
+This week, media are not only material agents; they either consist of *signs* organized according to codes or become *difference engines* in the play of discourse. A sign may be reductive, or it may invite many possible meanings. Perhaps the messenger is literal (think high fidelity), or maybe they're a poet or trickster. Meanings may persist, overlap, or contradict each other, and&#8212;most interesting&#8212;they are frequently unintended. Consider those moments when someone asserts, "I didn't mean to say that!" While noise in the transmission model may lack semantic value, unintended messages can be semantically rich. We'll see what kind of surprises arise in our conversations about media and meaning this week. 
+
+**Questions for Week 8** 
+
+Does the practice of decoding treat content like a puzzle to be solved? Must we mean what we communicate in writing? In speech? What strikes you as uncertain or unpredictable in the practice of media, and how do you take responsibility for what you didn't intend in your media work? 
+
+**Primary source for Week 8**
+
+Nalo Hopkinson's "Message in a Bottle" (PDF; [2004](https://pmpress.org/index.php?l=product_detail&p=425)), "a radical new twist on the time travel tale that demolishes the sentimental myth of childhood innocence." Content warning: racism; sexism; ableism; settler colonialism; gaslighting; sexual content, including strong language. 
+
+**Format for Week 8** 
+
+short fiction (published in a paperback and e-book collection)
+
+**Technique for Week 8**
+
+Decoding. Re-read "Message in a Bottle" and decode an enigma, some action, and some cultural references you encounter in it. 
+
+*Approaches addressed this week*: semiotics (icon, symbol, and index as well as types of codes); discourse; social order 
