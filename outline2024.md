@@ -62,7 +62,7 @@ You might prefer to use "mechanics" or even "interface" instead of "action." Als
 
 ## Media Formats 
 
-Note: many people also consider these formats to be "media," and that's fine. Consider, for instance, the treatment of the book, comics, video games, and television as media in book history, comics studies, game studies, and television studies, respectively. It's still useful in each case to ask how these objects of inquiry engage the media of audio, images, text, video, and action, and the definition of "media" or "medium" is shaped by the field or discipline of study. 
+Note: many people also consider these formats to be "media," and that's fine. Consider, for instance, the treatment of books, comics, video games, and television as media in book history, comics studies, game studies, and television studies, respectively. It's still useful in each case to ask how these objects of inquiry engage the media of audio, images, text, video, and action, and the definition of "media" or "medium" is shaped by the field or discipline of study. 
 
 - advertisement
 - animation
@@ -147,11 +147,15 @@ Note: many people also consider these formats to be "media," and that's fine. Co
 - theatre of the imagination 
 - event score 
 - shared pulse 
-- storyboarding 
+- storyboarding
+- adaptation
+- homage
+- remake, reboot, remaster
 - demakes 
 - think-aloud protocol 
 - reaction vids
-- livestreams 
+- livestreams
+- parasocial relationship
 
 ## UVic Resources for Media Studies 
 
