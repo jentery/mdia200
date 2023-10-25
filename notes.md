@@ -16,7 +16,8 @@ Consult the [glossary](https://jentery.github.io/mdia200/glossary.html) for defi
 * [Week 3 (Sept. 18 and 21): Media and Mass Communication](#week-3-sept-18-and-21-media-and-mass-communication)
 * [Week 4 (Sept. 25 and 28): Media and Communication as Culture](#week-4-sept-25-and-28-media-and-communication-as-culture)
 * [Weeks 5 and 6 (Oct. 5 and 12): Media and Art](#weeks-5-and-6-oct-5-and-12-media-and-art)
-* [Week 7 (Oct. 16 and 19): Media and Affect](#week-7-oct-16-and-19-media-and-affect) 
+* [Week 7 (Oct. 16 and 19): Media and Affect](#week-7-oct-16-and-19-media-and-affect)
+* [Week 8 (Oct. 23 and 26): Media and Meaning](#week-8-oct-23-and-23-media-and-meaning)
 
 ## Week 1 (Sept. 7): Media Are Material Agents 
 
