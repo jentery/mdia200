@@ -143,7 +143,8 @@ Note: many people also consider these formats to be "media," and that's fine. Co
 - translating from 2D to 3D or 3D to 2D
 - prototyping use scenarios / contexts of use 
 - collection, emulation, migration 
-- simulation 
+- simulation
+- remediation and premediation 
 - theatre of the imagination 
 - event score 
 - shared pulse 
