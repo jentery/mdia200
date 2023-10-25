@@ -1,17 +1,3 @@
-## Week 8 (Oct. 23 and 26): Media and Meaning
-
-This week, media are not only material agents; they either consist of *signs* organized according to codes or become *difference engines* in the play of discourse. A sign may be reductive, or it may invite many possible meanings. Perhaps the messenger is literal, or maybe they're a poet or trickster. Meanings may persist, overlap, or contradict each other, and&#8212;most interesting&#8212;they are frequently unintended. Consider those moments when someone asserts, "I didn't mean to say that!" While noise in the transmission model may lack semantic value, unintended communications can be semantically rich. We'll see what kind of surprises arise in our conversations about media and meaning this week. 
-
-*Questions for this week*: Must we mean what we communicate in writing? In speech? What strikes you as uncertain or unpredictable in the practice of media, and how do you take responsibility for what you didn't intend in your media work? Is it possible to make meaning without a code? 
-
-*Primary source for the week*: Nalo Hopkinson's "Message in a Bottle" (PDF; [2004](https://pmpress.org/index.php?l=product_detail&p=425)), "a radical new twist on the time travel tale that demolishes the sentimental myth of childhood innocence." Content warning: racism; sexism; ableism; settler colonialism; gaslighting; sexual content, including strong language. 
-
-*Format for the week*: short fiction (published in a paperback and e-book collection)
-
-*Technique for the week*: theatre of the imagination. COMPLETE.
-
-*Approaches addressed this week*: semiotics (icon, symbol, and index as well as types of codes); discourse; social order 
-
 ## Week 9 (Oct. 30 and Nov. 2): Media and Narrative
 
 This week, media are not only material agents but also *patterns* in how stories and experiences are transformed by narratives. Media play significant roles in the construction of heroes and villains, arcs and perspectives, plots and subplots, quests and conflicts. Today, a common question is whether a narrative is interactive, nonlinear, or branching. Can you choose your own adventure? How many endings are there? The popular perception that digital media are inherently interactive helps to explain these questions, yet so, too, do people's desires for participation in storytelling and even genre. This week, we'll review some narratives and genres we've encountered this term and then shift our attention to how narratives emerge, or are crafted, from everyday activities, particularly the activity of play. 
