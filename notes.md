@@ -227,7 +227,7 @@ affect theory, bandwagon effect, mimetic communication, premediation
 
 ## Week 8 (Oct. 23 and 26): Media and Meaning
 
-This week, media are not only material agents; they either consist of *signs* organized according to codes or become *difference engines* in the play of discourse. A sign may be reductive, or it may invite many possible meanings. Perhaps the messenger is literal (think high fidelity), or maybe they're a poet or trickster. Meanings may persist, overlap, or contradict each other, and&#8212;most interesting&#8212;they are frequently unintended. Consider those moments when someone asserts, "I didn't mean to say that!" While noise in the transmission model may lack semantic value, unintended messages can be semantically rich. We'll see what kind of surprises arise in our conversations about media and meaning this week. 
+This week, media are not only material agents; they either consist of *signs* organized according to codes or become *difference engines* in the play of discourse. A sign may be reductive, or it may invite many possible meanings. Perhaps the messenger is literal (think high fidelity), or maybe they're a poet or trickster. Meanings may persist, overlap, or contradict each other, and&#8212;most interesting&#8212;they are frequently unintended. Consider those moments when someone asserts, "I didn't mean to say that!" While noise in the transmission model (see Week 3) may lack semantic value, unintended messages can be semantically rich in the field of semiotics. We’ll see what kind of surprises arise in our conversations about media and meaning this week.
 
 **Questions for Week 8** 
 
