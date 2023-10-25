@@ -245,4 +245,6 @@ short fiction (published in a paperback and e-book collection)
 
 Decoding. Re-read "Message in a Bottle" and decode an enigma, some action, and some cultural references you encounter in it. 
 
-*Approaches addressed this week*: semiotics (icon, symbol, and index as well as types of codes); discourse; social order 
+**Approach addressed in Week 8** 
+
+semiotics (icon, symbol, and index as well as types of codes)
