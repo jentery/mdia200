@@ -30,6 +30,7 @@ This document is an outline for a guide I'm creating to introduce undergraduate 
 - "in the middle" 
 - the mediation of communication 
 - the process of making, recording, storing, and circulating (reproduction)
+- differences between media and the media
 
 ## Forms of Communication 
 
