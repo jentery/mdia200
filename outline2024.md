@@ -38,7 +38,8 @@ This document is an outline for a guide I'm creating to introduce undergraduate 
 - interpersonal 
 - organizational
 - mass 
-- mimetic 
+- mimetic
+- ritual
 - miscommunication 
 
 ## Values of Communication 
