@@ -28,7 +28,9 @@ This document is an outline for a guide I'm creating to introduce undergraduate 
 - a material agent for transforming this into that 
 - congealed labour 
 - "in the middle" 
-- the mediation of communication 
+- the mediation of communication
+- the spiritual medium (when people were media)
+- the messenger (when people were media) 
 - the process of making, recording, storing, and circulating (reproduction)
 - differences between media and the media
 
