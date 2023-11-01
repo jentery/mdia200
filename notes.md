@@ -272,5 +272,5 @@ Storyboarding. Use text and images to transform the experience of playing *Poké
 
 **Approaches addressed in Week 9**
 
-environmental storytelling (especially emergent storytelling); narratology (especially narrative transformation); ludology (especially ludonarrative dissonance)
+environmental storytelling (especially emergent narratives); narratology (especially narrative transformation); ludology (especially ludonarrative dissonance)
 
