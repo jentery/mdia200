@@ -19,6 +19,7 @@ You can consult [my notes](https://jentery.github.io/mdia200/notes.html) for eac
 * [Week 7 (Oct. 16 and 19): Media and Affect](#week-7-oct-16-and-19-media-and-affect)
 * [Week 8 (Oct. 23 and 26): Media and Meaning](#week-8-oct-23-and-26-media-and-meaning)
 * [Week 9 (Oct. 30 and Nov. 2): Media and Narrative](#week-9-oct-30-and-nov-2-media-and-narrative)
+* [Week 10 (Nov. 6 and 9): The Economy of Media](#week-10-nov-6-and-9-the-economy-of-media)
 
 ## Week 1 (Sept. 7): Media Are Material Agents
 
@@ -163,4 +164,12 @@ You can consult [my notes](https://jentery.github.io/mdia200/notes.html) for eac
 * **plot**: "the sequence of events as unfolded in the telling or narrating" of a story ([Parsons 2021](https://narrative-environments.github.io/CourseCompendium/Story-and-Plot.html)).
 * **spatial stories**: "stories which," according to Jenkins ([2002](https://web.mit.edu/~21fms/People/henry3/games&narrative.html)), "respond to alternative aesthetic principles, privileging spatial exploration over plot development. Spatial stories are held together by broadly defined goals and conflicts and pushed forward by the character's movement across the map. Their resolution often hinges on the player's reaching their final destination, though, as Mary Fuller notes, not all travel narratives end successfully or resolve the narrative enigmas which set them into motion."
 * **story**: the "raw material" or "whole tale" organized by a writer or the like (see [Parsons 2021](https://narrative-environments.github.io/CourseCompendium/Story-and-Plot.html) on the Russian Formalists); Parsons also notes that "[s]tory, as whole tale, is the sequence of event[s] in chronological order, from beginning to end;" when a story's chronology corresponds with its plot, the plot is simple; when its chronology is altered by the plot, the plot may be complex or non-linear; a narrative is the story and its plot. 
-* **storyboarding**: a visual and textual description of how a story plays out scene-by-scene or shot-by-shot.  
+* **storyboarding**: a visual and textual description of how a story plays out scene-by-scene or shot-by-shot.
+  
+## Week 10 (Nov. 6 and 9): The Economy of Media 
+
+* **content industry**: "an industry that generates revenue from the production and/or circulation of content alone"; content capital, or "one's ability to produce content not about one's work but about one's status as an artist, writer, or performer," is central to this industry (see [Eichhorn 2022](https://mitpress.mit.edu/9780262543286/content/)).
+* **culture industry**: popular culture is a factory for standardized goods that manipulate society into passivity (see [Adorno and Horkheimer 1947](https://www.sup.org/books/title/?id=1103)).
+* **labour**: personal activity, its subject, and its instruments; in the 21st century, play increasingly resembles labour, hence the term, "playbour" (see [Kücklich 2005](https://five.fibreculturejournal.org/fcj-025-precarious-playbour-modders-and-the-digital-games-industry/)).
+* **neoliberalism**: a system that privatizes common or public goods, extracts a surplus from every social activity, and privileges the rule of the free market; people become entrepreneurs of themselves in this system (see [Shaviro 2015](https://manifold.umn.edu/read/no-speed-limit/section/1b09b41b-002e-4b2d-ade0-b7ee76e5e9cc)) and [Brown 2017](https://press.princeton.edu/books/paperback/9781935408543/undoing-the-demos)).</h2>
+* **ownership effects**: the study of how global media are produced by a few companies (monopolies and oligopolies), which advertise everywhere; media are driven by mass appeal and profit in this model, and creativity matters less than profit (see [Curran and Seaton 2018](https://www.routledge.com/Power-Without-Responsibility-Press-Broadcasting-and-the-Internet-in-Britain/Curran-Seaton/p/book/9780415710428?gclid=Cj0KCQiApOyqBhDlARIsAGfnyMqoACzRVlUzo8IxfBQZOY1OOxTg6CVMQ7bMxhRJ6YJvsWUBrU_f2aIaAqiiEALw_wcB)).
