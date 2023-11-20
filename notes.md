@@ -19,6 +19,7 @@ Consult the [glossary](https://jentery.github.io/mdia200/glossary.html) for defi
 * [Week 7 (Oct. 16 and 19): Media and Affect](#week-7-oct-16-and-19-media-and-affect)
 * [Week 8 (Oct. 23 and 26): Media and Meaning](#week-8-oct-23-and-26-media-and-meaning)
 * [Week 9 (Oct. 30 and Nov. 2): Media and Narrative](#week-9-oct-30-and-nov-2-media-and-narrative)
+* [Weeek 10 (Nov. 6 and 9): The Economy of Media](#week-10-nov-6-and-9-the-economy-of-media)
 
 ## Week 1 (Sept. 7): Media Are Material Agents 
 
@@ -274,3 +275,26 @@ Storyboarding. Use text and images to transform the experience of playing *Poké
 
 environmental storytelling (especially emergent narratives); narratology (especially narrative transformation); ludology (especially ludonarrative dissonance)
 
+## Week 10 (Nov. 6 and 9): The Economy of Media
+
+This week, media are not only material agents but also mechanisms for reproducing content, amplifying it, tracking attention to it, and generating revenue from it. Content does not need to communicate a message in this model; it simply needs to circulate. Understanding this economy of media, including global media revenue, helps us to better understand the material conditions and labour of communication today, including phenomena like resource extraction, content farms and content moderation, crowdsourcing and distributed workforces, gamblification, and gig work. This week, we’ll talk about the culture and content industries, who owns media and media infrastructures, if and when media are regulated, and what it means to produce content in the 2020s.
+
+**Questions for Week 10**
+
+When are media a distraction? How is mediation also labour? How do you distinguish between entertainment and news in your everyday life? And what does “content capital” mean to you and your communities?
+
+**Primary source for Week 10** 
+
+Origame Digital and Naphtali Faulkner’s Umurangi Generation (2020), “a first person photography game in the shitty future. Set in Tauranga Aotearoa off the back of an impending crisis you are a courier for the Tauranga Express.” Content warning: catastrophe; themes addressing the structural effects and lived experiences of colonialism, capitalism, fascism, and climate change.
+
+**Format for Week 10** 
+
+simulation (video game made for consoles using Unity)
+
+**Technique for Week 10** 
+
+Tracing. Research Umurangi Generation to describe---to the best of your knowledge---the labour, materials, and institutions involved in making it. Attribute the labour where possible and also note what you can't determine or trace.
+
+**Approaches addressed in Week 10**
+
+neoliberalism; ownership effects; the culture industry; the content industry
