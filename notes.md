@@ -20,6 +20,7 @@ Consult the [glossary](https://jentery.github.io/mdia200/glossary.html) for defi
 * [Week 8 (Oct. 23 and 26): Media and Meaning](#week-8-oct-23-and-26-media-and-meaning)
 * [Week 9 (Oct. 30 and Nov. 2): Media and Narrative](#week-9-oct-30-and-nov-2-media-and-narrative)
 * [Weeek 10 (Nov. 6 and 9): The Economy of Media](#week-10-nov-6-and-9-the-economy-of-media)
+* [Week 12 (Nov. 20 and 23): Media and Identity](#week-12-nov-20-and-23-media-and-identity)
 
 ## Week 1 (Sept. 7): Media Are Material Agents 
 
@@ -298,3 +299,7 @@ Tracing. Research Umurangi Generation to describe---to the best of your knowledg
 **Approaches addressed in Week 10**
 
 neoliberalism; ownership effects; the culture industry; the content industry
+
+## Week 12 (Nov. 20 and 23): Media and Identity
+
+No notes. See the [slides](https://jentery.github.io/mdia200/slides/identity/) for this week.
