@@ -20,6 +20,7 @@ You can consult [my notes](https://jentery.github.io/mdia200/notes.html) for eac
 * [Week 8 (Oct. 23 and 26): Media and Meaning](#week-8-oct-23-and-26-media-and-meaning)
 * [Week 9 (Oct. 30 and Nov. 2): Media and Narrative](#week-9-oct-30-and-nov-2-media-and-narrative)
 * [Week 10 (Nov. 6 and 9): The Economy of Media](#week-10-nov-6-and-9-the-economy-of-media)
+* [Week 12 (Nov. 20 and 23): Media and Identity](#week-12-nov-20-and-23-media-and-identity)
 
 ## Week 1 (Sept. 7): Media Are Material Agents
 
@@ -173,3 +174,10 @@ You can consult [my notes](https://jentery.github.io/mdia200/notes.html) for eac
 * **labour**: personal activity, its subject, and its instruments; in the 21st century, play increasingly resembles labour, hence the term, "playbour" (see [Kücklich 2005](https://five.fibreculturejournal.org/fcj-025-precarious-playbour-modders-and-the-digital-games-industry/)).
 * **neoliberalism**: a system that privatizes common or public goods, extracts a surplus from every social activity, and privileges the rule of the free market; people become entrepreneurs of themselves in this system (see [Shaviro 2015](https://manifold.umn.edu/read/no-speed-limit/section/1b09b41b-002e-4b2d-ade0-b7ee76e5e9cc) and [Brown 2017](https://press.princeton.edu/books/paperback/9781935408543/undoing-the-demos)).</h2>
 * **ownership effects**: the study of how global media are produced by a few companies (monopolies and oligopolies), which advertise everywhere; media are driven by mass appeal and profit in this model, and creativity matters less than profit (see [Curran and Seaton 2018](https://www.routledge.com/Power-Without-Responsibility-Press-Broadcasting-and-the-Internet-in-Britain/Curran-Seaton/p/book/9780415710428?gclid=Cj0KCQiApOyqBhDlARIsAGfnyMqoACzRVlUzo8IxfBQZOY1OOxTg6CVMQ7bMxhRJ6YJvsWUBrU_f2aIaAqiiEALw_wcB)).
+
+## Week 12 (Nov. 20 and 23): Media and Identity
+
+* **intersectionality**: "acknowledges the complex relationship between social identities, and systems of power and oppression" (Darla Benton Kearney); also see the  definition from [Week 2](#week-2-sept-11-and-14-media-and-interpersonal-communication)
+* **personal identity**: how, in the context of Media Studies, we construct or shape our identities through media and their formats, such as books, video games, animation, albums, television, comics, podcasts, and essays
+* **positionality**: "refers to the personal values, views, and location in time and space that influence how one engages with and understands the world. It is wrapped up in the dynamics of power and privilege. For example, your gender, race, class, and other aspects of your social identities influence and inform how you move through the world, what knowledge you produce and value, and the biases through which everything you say, think, and do, is filtered, intentionally or otherwise" ([Darla Benton Kearney](https://ecampusontario.pressbooks.pub/universaldesign/chapter/positionality-intersectionality/))
+* **social identity**: see ([Darla Benton Kearney](https://ecampusontario.pressbooks.pub/universaldesign/chapter/positionality-intersectionality/)): "Critical social psychology describes identity as a social construction that is learned through interactions with others and the world, and that has a strong impact on who we become (Allen & Rosatto, as cited in Shah, 2018). Social privilege exists on the basis of complex and intersecting social identities, such as race, gender, ability, class, faith/religion, age and sexuality and the relative distance of these identities to dominant identities and power (Black & Stone, as cited in Shah, 2018)."
