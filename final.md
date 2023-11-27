@@ -97,7 +97,7 @@ Important: I will deduct *ten points* from every submission I receive after noon
 
 ***
 
-## Appendix 1: ## Steps You Might Follow
+## Appendix 1: Steps to Produce a Proof of Concept
 
 You're welcome to follow these steps to produce your proof of concept: 
 
