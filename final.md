@@ -55,7 +55,7 @@ See Appendix 1 and 2 for additional instructions and guidance.
 
 Here are some expectations implied by this prompt: 
 
-* **Time**: Once you've followed steps 1-9 above, I recommend spending 3-6 hours on your proof of concept.
+* **Time**: Once you've followed steps 1-9 below (see Appendix 1), I recommend spending 3-6 hours on your proof of concept.
 * **Instructions**: I will assume you read this prompt and these instructions for the proof of concept. 
 * **Support**: I will also assume that you sent me any questions or concerns you have about this prompt by Monday, December 11th. Please let me know how I can support you and your work. 
 * **Feedback**: I will assume you attended class in late November to get feedback on draft material. 
@@ -70,7 +70,6 @@ Projects in the A- to A+ range must be clear and compelling with respect to thei
 * Relevance to Media Studies in general and to this course in particular, 
 * Intended audience,
 * Context, 
-* Audience, 
 * Technique (see Appendix 2 for examples), and 
 * Critical approach (presumably drawn from this class). 
 
@@ -146,7 +145,7 @@ Here is a list of techniques that may be applicable to this project. The list is
 * amplification through simplification (cartoon or caricature)
 * annotation (describing or commenting on a work in its negative spaces)
 * counterfactual (possible alternative to historical events)
-* deepening (turning 3D to 2D)
+* deepening (turning 2D to 3D)
 * demake (produce content on an older platform)
 * détournement (creatively "disfiguring" something; see Situationism)
 * event score (instructions for a happening; see Fluxus)
